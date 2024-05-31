@@ -1,0 +1,14 @@
+name: Run the workflow
+
+on:
+  push:
+
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: "actions/checkout@v4"
+      - uses: "knerio/GithubSyncFilesAction@main"
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
