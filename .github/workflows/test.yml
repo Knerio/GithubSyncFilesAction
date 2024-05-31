@@ -11,4 +11,4 @@ jobs:
       - uses: "actions/checkout@v4"
       - uses: "knerio/GithubSyncFilesAction@main"
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PTA }}
