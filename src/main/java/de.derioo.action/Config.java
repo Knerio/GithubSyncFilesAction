@@ -67,7 +67,6 @@ public class Config {
                     return new Content(gitHub.getRepository(repo).getFileContent(file));
                 } catch (IOException e) {
                     try {
-                        System.out.println("found dir");
                        return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
                     } catch (IOException x) {
                         throw new IOException(x);

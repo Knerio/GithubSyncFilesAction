@@ -74,7 +74,7 @@ public class Main {
                                 updateOrCreate(toRepository.getFullName(), ghContent.read().readAllBytes(), file.getSingleContent().getSha(), to.getFile(), "Sync files", token);
                             } catch (IOException e) {
                                 System.out.println("##");
-                                e.printStackTrace();
+                                throw new RuntimeException(e);
                             }
                         }
                         continue;
@@ -95,7 +95,7 @@ public class Main {
                 String rel = ghContent.getPath().replaceFirst(from.getFile(), "");
                 updateOrCreate(toRepository.getFullName(), ghContent.read().readAllBytes(), ghContent.getSha(), to.getFile() + rel, "Sync files", token);
             } catch (IOException ex) {
-                ex.printStackTrace();
+                throw new RuntimeException(ex);
             }
         }
     }
@@ -108,7 +108,6 @@ public class Main {
 
         String base64Content = Base64.getEncoder().encodeToString(content);
 
-        System.out.println(path);
 
         CommitRequest.Commiter author = new CommitRequest.Commiter("bot", "41898282+github-actions[bot]@users.noreply.github.com");
         CommitRequest json = new CommitRequest(commitMessage, base64Content, sha, author, author);
