@@ -1,0 +1,8 @@
+---
+entries:
+- from:
+    repo: "Knerio/Knerio"
+    file: "README.md"
+  to:
+    repo: "Knerio/Knerio"
+    file: "test/README.md"

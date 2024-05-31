@@ -1,0 +1,21 @@
+name: "Sync Files"
+author: Dario
+description: "Copy files from a location to another"
+
+inputs:
+  GITHUB_TOKEN:
+    description: "GitHub access token with Repo scope"
+    required: true
+    default: ${{ github.token }}
+  CONFIG:
+    description: "The location of you config (see example.config.yml for inspiration)"
+    default: "./.github/sync.config.yml"
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "info"
+  color: "blue"
