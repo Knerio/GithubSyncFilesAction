@@ -4,5 +4,5 @@ entries:
       repo: "Knerio/Knerio"
       file: "README.md"
     to:
-      repo: "Knerio/SyncFilesGithubAction"
+      repo: "Knerio/GithubSyncFilesAction"
       file: "README.md"
