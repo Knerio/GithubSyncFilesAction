@@ -30,11 +30,11 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 52 mins    ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-TypeScript       1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Vue.js           42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-CSS              26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-YAML             25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Java              7 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.57 %
+TypeScript        1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+YAML              54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Kotlin            43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Vue.js            42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
@@ -42,14 +42,14 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-2. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-3. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-4. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-5. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-6. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-7. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-8. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-9. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-10. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+1. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+3. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+4. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+5. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+6. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+8. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+9. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+10. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
