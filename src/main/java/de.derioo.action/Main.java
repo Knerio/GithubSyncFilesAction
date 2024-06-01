@@ -126,9 +126,9 @@ public class Main {
                 .build();
 
         try (Response response = client.newCall(request).execute()) {
-            String body = response.body().string();
+            String responseBody = response.body().string();
             if (!response.isSuccessful()) {
-                if (body.startsWith("{\"message\":\"Resource not accessible by integration\"")) {
+                if (responseBody.startsWith("{\"message\":\"Resource not accessible by integration\"")) {
                     System.err.println("""
                             ---------------------------
                             
@@ -140,6 +140,7 @@ public class Main {
                 }
                 throw new IOException("Unexpected response " + response);
             }
+            System.out.println(responseBody);
         }
     }
 
