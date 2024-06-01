@@ -46,10 +46,10 @@ Vue.js            42 mins         █▒░░░░░░░░░░░░░�
 2. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 3. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 4. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+5. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+6. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 7. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 8. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-9. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-10. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+9. ⬆️ Pushed to [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+10. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
