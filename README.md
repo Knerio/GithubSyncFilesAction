@@ -1,7 +1,7 @@
 # Github Sync Files Action
 
-Copies files from a repo to the same or an other repo.
-As example, [showcase/README.md](./showcase/README.md) is synced with [Knerio/Knerio/README.md](https://github.com/Knerio/Knerio/blob/main/README.md)
+Copies files from a repo to the same or an other repo. <br/>
+For example, [showcase/README.md](./showcase/README.md) is synced with [Knerio/Knerio/README.md](https://github.com/Knerio/Knerio/blob/main/README.md)
 
 
 ## Action Setup
