@@ -21,7 +21,7 @@ dependencies {
     implementation("org.jetbrains:annotations:24.1.0")
 
     implementation("org.kohsuke:github-api:1.321")
-    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.12.2")
+    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
 }
 
