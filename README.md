@@ -28,10 +28,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Knerio/GithubSyncFilesAction/pull/2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-2. 🎉 Merged PR [#3](https://github.com/Knerio/GithubSyncFilesAction/pull/3) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-3. 🎉 Merged PR [#1](https://github.com/Knerio/GithubSyncFilesAction/pull/1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-4. ⭐ Starred [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+1. ⭐ Starred [Knerio/knerio](https://github.com/Knerio/knerio)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
@@ -43,36 +40,24 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.1%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.3 kB Used in GitHub's Storage 
- > 
-> 🏆 835 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-🌆 Daytime                658 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.82 % 
-🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌆 Daytime                664 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.69 % 
+🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Saturday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Saturday                 296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 ```
 
 
@@ -115,6 +100,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 13:06:27 UTC
+ Last Updated on 01/06/2024 13:23:26 UTC
 <!--END_SECTION:waka-->
 
