@@ -138,7 +138,7 @@ public class Main {
                                                         
                             We could not copy the files, because the access token provided doesnt have contents to write set
                             or the PAT doesnt have the repo scope set to true!
-                            See https://github.com/Knerio/GithubSyncFilesAction for help
+                            See https://github.com/Knerio/GithubSyncFilesAction#action-setup for help
                                                         
                             ---------------------------
                             """);
