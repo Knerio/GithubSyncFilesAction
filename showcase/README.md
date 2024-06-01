@@ -28,36 +28,39 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+1. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-988-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.5%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-🌆 Daytime                669 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌃 Evening                927 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
-🌙 Night                  399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+🌆 Daytime                710 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
+🌃 Evening                994 commits         ███████████░░░░░░░░░░░░░░   44.77 % 
+🌙 Night                  451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                333 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Friday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 330 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Saturday                 345 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 ```
 
 
@@ -100,6 +103,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 15:54:10 UTC
+ Last Updated on 01/06/2024 16:12:05 UTC
 <!--END_SECTION:waka-->
 
