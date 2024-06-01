@@ -28,36 +28,37 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+2. ⭐ Starred [Knerio/knerio](https://github.com/Knerio/knerio)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-965-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-946-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.7%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-🌆 Daytime                674 commits         ████████░░░░░░░░░░░░░░░░░   30.90 % 
-🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.48 % 
-🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                683 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.30 % 
+🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Saturday                 306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Saturday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 
@@ -100,6 +101,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 14:10:28 UTC
+ Last Updated on 01/06/2024 14:27:00 UTC
 <!--END_SECTION:waka-->
 
