@@ -1,58 +1,58 @@
 package de.derioo.action;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 import lombok.*;
 import lombok.extern.jackson.Jacksonized;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.RequestBody;
 import okhttp3.Response;
-import org.kohsuke.github.*;
+import org.jetbrains.annotations.NotNull;
+import org.kohsuke.github.GHContent;
+import org.kohsuke.github.GHRepository;
+import org.kohsuke.github.GitHub;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
 import java.nio.file.PathMatcher;
 import java.util.ArrayList;
 import java.util.Base64;
 import java.util.List;
+import java.util.Objects;
 
 public class Main {
 
 
     public static void main(String[] args) {
-        Config config = Config.fromFileString(System.getenv("INPUT_CONFIG"));
-        String token = System.getenv("INPUT_GITHUB_TOKEN");
         try {
+            Config config = Config.fromFileString(System.getenv("INPUT_CONFIG"));
+            String token = System.getenv("INPUT_GITHUB_TOKEN");
+
             GitHub gitHub = GitHub.connectUsingOAuth(token);
             for (Config.Entry entry : config.getEntries()) {
-                Config.Entry.SingleFileLocation from = entry.getFrom();
-                Config.Entry.SingleFileLocation to = entry.getTo();
-                GHRepository toRepository = gitHub.getRepository(to.getRepo());
-                Config.Content selectedFrom = from.file(gitHub);
-                List<GHContent> toCopy = new ArrayList<>();
+                final Config.Entry.SingleFileLocation from = entry.getFrom();
+                final Config.Entry.SingleFileLocation to = entry.getTo();
+                final GHRepository toRepository = gitHub.getRepository(to.getRepo());
+                final Config.Content selectedFrom = Objects.requireNonNull(from.file(gitHub), "Provided from doesnt exists");
+                final List<GHContent> toCopy = new ArrayList<>(selectedFrom.all());
 
-                if (selectedFrom.isFile()) {
-                    toCopy.add(selectedFrom.getSingleContent());
-                } else {
-                    toCopy.addAll(selectedFrom.getDir());
-                }
                 for (GHContent ghContent : new ArrayList<>(toCopy)) {
                     if (ghContent.isDirectory()) {
                         toCopy.remove(ghContent);
                         continue;
                     }
+
                     String path = from.getFile();
-                    String contentPath = ghContent.getPath();
-                    contentPath = contentPath.replaceFirst(path, "");
+                    String contentPath = ghContent.getPath().replaceFirst(path, "");
+
                     if (contentPath.isEmpty()) {
                         contentPath = ghContent.getName();
                     }
+
                     if (contentPath.startsWith("/")) contentPath = contentPath.substring(1);
+
                     for (String ignored : entry.getIgnore()) {
                         ignored = "glob:" + ignored;
                         PathMatcher matcher = FileSystems.getDefault().getPathMatcher(ignored);
@@ -60,44 +60,39 @@ public class Main {
                     }
                 }
 
-                try {
-                    to.file(gitHub);
-                } catch (IOException ignored) {
+                if (to.file(gitHub) == null) {
                     if (to.getFile().matches("(.+)\\.(.+)")) {
                         createOrUpdateSingleFile(toCopy, toRepository, null, to, config, entry, token);
                         continue;
                     }
-
                 }
-
-                try {
-                    Config.Content file = to.file(gitHub);
-                    if (file.isFile()) {
-                        createOrUpdateSingleFile(toCopy, toRepository, file.getSingleContent().getSha(), to, config, entry, token);
-                        continue;
-                    }
+                Config.Content file = to.file(gitHub);
+                if (Objects.isNull(file)) {
+                    buildFolder(token, from, to, toRepository, toCopy, entry, config);
                     continue;
-                } catch (IOException ignored) {
                 }
-                buildFolder(token, from, to, toRepository, toCopy, entry, config);
+
+                if (file.isFile()) {
+                    createOrUpdateSingleFile(toCopy, toRepository, file.getSingleContent().getSha(), to, config, entry, token);
+                }
+
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    private static void createOrUpdateSingleFile(List<GHContent> toCopy, GHRepository toRepository, String sha, Config.Entry.SingleFileLocation to, Config config, Config.Entry entry, String token) {
+    private static void createOrUpdateSingleFile(@NotNull List<GHContent> toCopy, GHRepository toRepository, String sha, Config.Entry.SingleFileLocation to, Config config, Config.Entry entry, String token) {
         for (GHContent ghContent : toCopy) {
             try (InputStream stream = ghContent.read()) {
                 updateOrCreate(toRepository.getFullName(), stream.readAllBytes(), sha, to.getFile(), getCommitMessage(config, entry), token);
             } catch (IOException e) {
-                System.out.println("##");
                 throw new RuntimeException(e);
             }
         }
     }
 
-    private static void buildFolder(String token, Config.Entry.SingleFileLocation from, Config.Entry.SingleFileLocation to, GHRepository toRepository, List<GHContent> toCopy, Config.Entry entry, Config config) {
+    private static void buildFolder(String token, Config.Entry.SingleFileLocation from, Config.Entry.SingleFileLocation to, GHRepository toRepository, @NotNull List<GHContent> toCopy, Config.Entry entry, Config config) {
         for (GHContent ghContent : toCopy) {
             try (InputStream stream = ghContent.read()) {
                 String rel = ghContent.getPath().replaceFirst(from.getFile(), "");
@@ -108,22 +103,18 @@ public class Main {
         }
     }
 
-    private static String getCommitMessage(Config config, Config.Entry entry) {
+    private static String getCommitMessage(Config config, Config.@NotNull Entry entry) {
         if (entry.getCommitMessage() != null) return entry.getCommitMessage();
         return config.getGlobalCommitMessage();
     }
 
-    public static void updateOrCreate(String repoName, byte[] content, String sha, String path, String commitMessage, String token) throws IOException {
+    public static void updateOrCreate(String repoName, byte[] content, String sha, @NotNull String path, String commitMessage, String token) throws IOException {
         if (path.endsWith("/")) path = path.substring(0, path.length() - 1);
         OkHttpClient client = new OkHttpClient();
 
-        String url = "https://api.github.com/repos/" + repoName + "/contents/" + path;
-
-        String base64Content = Base64.getEncoder().encodeToString(content);
-
 
         CommitRequest.Commiter author = new CommitRequest.Commiter("bot", "41898282+github-actions[bot]@users.noreply.github.com");
-        CommitRequest json = new CommitRequest(commitMessage, base64Content, sha, author, author);
+        CommitRequest json = new CommitRequest(commitMessage, Base64.getEncoder().encodeToString(content), sha, author, author);
 
         RequestBody body = RequestBody.create(
                 new ObjectMapper().writeValueAsString(json),
@@ -131,7 +122,7 @@ public class Main {
         );
 
         okhttp3.Request request = new okhttp3.Request.Builder()
-                .url(url)
+                .url("https://api.github.com/repos/" + repoName + "/contents/" + path)
                 .addHeader("Authorization", "token " + token)
                 .addHeader("X-GitHub-Api-Version", "2022-11-28")
                 .addHeader("Accept", "application/vnd.github+json")
@@ -145,8 +136,9 @@ public class Main {
                     System.err.println("""
                             ---------------------------
                                                         
-                            We could not copy the files, because the access token provided is the default runner token
+                            We could not copy the files, because the access token provided doesnt have contents to write set
                             or the PAT doesnt have the repo scope set to true!
+                            See https://github.com/Knerio/GithubSyncFilesAction for help
                                                         
                             ---------------------------
                             """);

@@ -1,6 +1,5 @@
 package de.derioo.action;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
@@ -8,13 +7,14 @@ import lombok.*;
 import lombok.experimental.FieldDefaults;
 import lombok.extern.jackson.Jacksonized;
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.kohsuke.github.GHContent;
 import org.kohsuke.github.GitHub;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 
 @Getter
@@ -32,12 +32,8 @@ public class Config {
     @Builder.Default
     String globalCommitMessage = "Sync GitHub files";
 
-    public static Config fromFileString(String s) {
-        try {
-            return new YAMLMapper().readValue(new File(s), Config.class);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public static Config fromFileString(String s) throws IOException {
+        return new YAMLMapper().readValue(new File(s), Config.class);
     }
 
     @Getter
@@ -71,15 +67,14 @@ public class Config {
             String file;
 
 
-            public Content file(@NotNull GitHub gitHub) throws IOException {
+            public @Nullable Content file(@NotNull GitHub gitHub) throws IOException {
                 try {
                     return new Content(gitHub.getRepository(repo).getFileContent(file));
                 } catch (IOException e) {
                     try {
                         return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
                     } catch (IOException x) {
-                        e.printStackTrace();
-                        throw new IOException(x);
+                        return null;
                     }
                 }
             }
@@ -97,6 +92,7 @@ public class Config {
         List<GHContent> dir;
 
         public Content(GHContent singleContent) {
+            this.dir = new ArrayList<>();
             this.singleContent = singleContent;
         }
 
@@ -110,7 +106,12 @@ public class Config {
             }
         }
 
-        private List<GHContent> listInnerFiles(GHContent dir) {
+        public List<GHContent> all() {
+            if (isFile()) return Collections.singletonList(singleContent);
+            return dir;
+        }
+
+        private List<GHContent> listInnerFiles(@NotNull GHContent dir) {
             List<GHContent> files = new ArrayList<>();
             try {
                 for (GHContent ghContent : dir.listDirectoryContent()) {
