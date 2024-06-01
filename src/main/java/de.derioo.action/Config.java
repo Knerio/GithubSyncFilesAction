@@ -29,7 +29,7 @@ public class Config {
 
     @JsonProperty("global-commit-message")
     @Builder.Default
-    String globalCommitMessage = "Sync github files";
+    String globalCommitMessage = "Sync GitHub files";
 
     public static Config fromFileString(String s) {
         try {
