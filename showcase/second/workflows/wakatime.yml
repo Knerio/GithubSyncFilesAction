@@ -1,0 +1,25 @@
+name: Update Wakatime Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions: write-all
+
+jobs:
+  update-readme:
+    name: Updates README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master 
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          SHOW_PROJECTS: "True" 
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False" 
+          SHOW_SHORT_INFO: "False"
+          IGNORED_REPOS: "GithubCommitHistoryAction"
+          COMMIT_MESSAGE: "Update Wakatime Weekly Activity"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
+ 
