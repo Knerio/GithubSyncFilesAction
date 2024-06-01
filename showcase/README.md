@@ -37,7 +37,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-988-blue)
 
@@ -103,6 +103,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 16:31:05 UTC
+ Last Updated on 01/06/2024 16:40:43 UTC
 <!--END_SECTION:waka-->
 
