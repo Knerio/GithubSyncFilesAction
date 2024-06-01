@@ -1,0 +1,19 @@
+name: Hourly  Readme Updater
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  activity:
+    name: "Updates the repo's README with lastest activities"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         
