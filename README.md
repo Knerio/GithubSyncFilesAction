@@ -40,18 +40,18 @@ The configuration looks like this and can be also found [here](https://github.co
 global-commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
 entries:
   - commit-message: "Sync README" # Optionally, Overwrites the global commit message
-    from:
+    from: # Copies from The repo Knerio/Knerio the file README.md
       repo: "Knerio/Knerio"
       file: "README.md"
-    to:
+    to: # Pastes as README.md (can also be renamed) in Knerio/GithubSyncFilesAction
       repo: "Knerio/GithubSyncFilesAction"
       file: "showcase/README.md"
 
   - from:
       repo: "Knerio/Knerio"
-      file: "README.md"
+      file: ".github/" # You can also copy a whole directory
     to:
       repo: "Knerio/GithubSyncFilesAction"
-      file: "showcase/second/README.md"
+      file: "showcase/second/"
 
 ```
