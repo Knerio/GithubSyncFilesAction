@@ -33,7 +33,7 @@ The parameters `GITHUB_TOKEN`, `CONFIG` are optional.
 ## Configuration
 
 The configuration location is configured above and also can be changed.
-The configuration looks like this and can be also found [here](https://github.com/Knerio/GithubSyncFilesAction/example.config.yml):
+The configuration looks like this and can be also found [here](./example.config.yml):
 
 ```yaml
 
