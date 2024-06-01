@@ -28,7 +28,7 @@ public class Config {
     @Builder.Default
     List<Entry> entries = new ArrayList<>();
 
-    @JsonProperty("global-commit-message")
+    @JsonProperty("commit-message")
     @Builder.Default
     String globalCommitMessage = "Sync GitHub files";
 
