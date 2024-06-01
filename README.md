@@ -32,7 +32,7 @@ The parameters `GITHUB_TOKEN`, `CONFIG` are optional.
 
 ## Configuration
 
-The configuration location is configured [above](https://github.com/Knerio/GithubSyncFilesAction/README.md#L28) and also can be changed.
+The configuration location is configured [above](https://github.com/Knerio/GithubSyncFilesAction/blob/main/README.md#L28) and also can be changed.
 The configuration looks like this and can be also found [here](https://github.com/Knerio/GithubSyncFilesAction/example.config.yml):
 
 ```yaml
