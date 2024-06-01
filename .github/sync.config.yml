@@ -13,4 +13,4 @@ entries:
       file: ".github/" # You can also copy a whole directory
     to:
       repo: "Knerio/GithubSyncFilesAction"
-      file: "showcase/second/"
+      file: "showcase/second/test.xml"
