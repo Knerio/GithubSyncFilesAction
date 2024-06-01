@@ -42,4 +42,8 @@ Vue.js            42 mins         █▒░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#2](https://github.com/Knerio/GithubSyncFilesAction/pull/2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+2. 🎉 Merged PR [#3](https://github.com/Knerio/GithubSyncFilesAction/pull/3) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+3. 🎉 Merged PR [#1](https://github.com/Knerio/GithubSyncFilesAction/pull/1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+4. ⭐ Starred [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 <!--RECENT_ACTIVITY:end-->
