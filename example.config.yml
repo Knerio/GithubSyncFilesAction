@@ -1,8 +1,17 @@
 ---
+global-commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
 entries:
+  - commit-message: "Sync README" # Optionally, Overwrites the global commit message
+    from:
+      repo: "Knerio/Knerio"
+      file: "README.md"
+    to:
+      repo: "Knerio/SyncFilesGithubAction"
+      file: "showcase/README.md"
   - from:
       repo: "Knerio/Knerio"
       file: "README.md"
     to:
       repo: "Knerio/SyncFilesGithubAction"
-      file: "README.md"
+      file: "showcase/second/README.md"
+

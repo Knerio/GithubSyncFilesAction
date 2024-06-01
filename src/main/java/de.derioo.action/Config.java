@@ -27,6 +27,10 @@ public class Config {
 
     List<Entry> entries;
 
+    @JsonProperty("global-commit-message")
+    @Builder.Default
+    String globalCommitMessage = "Sync github files";
+
     public static Config fromFileString(String s) {
         try {
             return new YAMLMapper().readValue(new File(s), Config.class);
@@ -46,6 +50,11 @@ public class Config {
         SingleFileLocation from;
         SingleFileLocation to;
 
+        @JsonProperty("commit-message")
+        @JsonIgnoreProperties(ignoreUnknown = true)
+        @Builder.Default()
+        String commitMessage = null;
+
         @Builder.Default()
         @JsonIgnoreProperties(ignoreUnknown = true)
         List<String> ignore = new ArrayList<>();
@@ -61,13 +70,12 @@ public class Config {
             String file;
 
 
-
             public Content file(@NotNull GitHub gitHub) throws IOException {
                 try {
                     return new Content(gitHub.getRepository(repo).getFileContent(file));
                 } catch (IOException e) {
                     try {
-                       return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
+                        return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
                     } catch (IOException x) {
                         e.printStackTrace();
                         throw new IOException(x);

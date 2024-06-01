@@ -12,6 +12,7 @@ import org.kohsuke.github.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
@@ -62,42 +63,54 @@ public class Main {
                 try {
                     to.file(gitHub);
                 } catch (IOException ignored) {
-                    if (to.getFile().matches("(.+)\\.(.+)"))
-                        updateOrCreate(toRepository.getFullName(), "".getBytes(StandardCharsets.UTF_8), null, to.getFile(), "create empty file", token);
+                    if (to.getFile().matches("(.+)\\.(.+)")) {
+                        createOrUpdateSingleFile(toCopy, toRepository, null, to, config, entry, token);
+                        continue;
+                    }
+
                 }
 
                 try {
                     Config.Content file = to.file(gitHub);
                     if (file.isFile()) {
-                        for (GHContent ghContent : toCopy) {
-                            try {
-                                updateOrCreate(toRepository.getFullName(), ghContent.read().readAllBytes(), file.getSingleContent().getSha(), to.getFile(), "Sync files", token);
-                            } catch (IOException e) {
-                                System.out.println("##");
-                                throw new RuntimeException(e);
-                            }
-                        }
+                        createOrUpdateSingleFile(toCopy, toRepository, file.getSingleContent().getSha(), to, config, entry, token);
                         continue;
                     }
                     continue;
                 } catch (IOException ignored) {
                 }
-                buildFolder(token, from, to, toRepository, toCopy);
+                buildFolder(token, from, to, toRepository, toCopy, entry, config);
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    private static void buildFolder(String token, Config.Entry.SingleFileLocation from, Config.Entry.SingleFileLocation to, GHRepository toRepository, List<GHContent> toCopy) {
+    private static void createOrUpdateSingleFile(List<GHContent> toCopy, GHRepository toRepository, String sha, Config.Entry.SingleFileLocation to, Config config, Config.Entry entry, String token) {
         for (GHContent ghContent : toCopy) {
-            try {
+            try (InputStream stream = ghContent.read()) {
+                updateOrCreate(toRepository.getFullName(), stream.readAllBytes(), sha, to.getFile(), getCommitMessage(config, entry), token);
+            } catch (IOException e) {
+                System.out.println("##");
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
+    private static void buildFolder(String token, Config.Entry.SingleFileLocation from, Config.Entry.SingleFileLocation to, GHRepository toRepository, List<GHContent> toCopy, Config.Entry entry, Config config) {
+        for (GHContent ghContent : toCopy) {
+            try (InputStream stream = ghContent.read()) {
                 String rel = ghContent.getPath().replaceFirst(from.getFile(), "");
-                updateOrCreate(toRepository.getFullName(), ghContent.read().readAllBytes(), ghContent.getSha(), to.getFile() + rel, "Sync files", token);
+                updateOrCreate(toRepository.getFullName(), stream.readAllBytes(), ghContent.getSha(), to.getFile() + rel, getCommitMessage(config, entry), token);
             } catch (IOException ex) {
                 throw new RuntimeException(ex);
             }
         }
+    }
+
+    private static String getCommitMessage(Config config, Config.Entry entry) {
+        if (entry.getCommitMessage() != null) return entry.getCommitMessage();
+        return config.getGlobalCommitMessage();
     }
 
     public static void updateOrCreate(String repoName, byte[] content, String sha, String path, String commitMessage, String token) throws IOException {
@@ -131,10 +144,10 @@ public class Main {
                 if (responseBody.startsWith("{\"message\":\"Resource not accessible by integration\"")) {
                     System.err.println("""
                             ---------------------------
-                            
+                                                        
                             We could not copy the files, because the access token provided is the default runner token
                             or the PAT doesnt have the repo scope set to true!
-                            
+                                                        
                             ---------------------------
                             """);
                 }
