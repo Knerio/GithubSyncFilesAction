@@ -25,7 +25,8 @@ import java.util.List;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class Config {
 
-    List<Entry> entries;
+    @Builder.Default
+    List<Entry> entries = new ArrayList<>();
 
     @JsonProperty("global-commit-message")
     @Builder.Default
