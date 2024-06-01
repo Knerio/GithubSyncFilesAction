@@ -69,6 +69,7 @@ public class Config {
                     try {
                        return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
                     } catch (IOException x) {
+                        e.printStackTrace();
                         throw new IOException(x);
                     }
                 }

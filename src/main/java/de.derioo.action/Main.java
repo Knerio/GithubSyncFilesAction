@@ -45,9 +45,9 @@ public class Main {
                         toCopy.remove(ghContent);
                         continue;
                     }
-                    String path = from.getFile();             //   test/
-                    String contentPath = ghContent.getPath(); //   test/asd/test.txt
-                    contentPath = contentPath.replaceFirst(path, ""); // asd/test.txt
+                    String path = from.getFile();
+                    String contentPath = ghContent.getPath();
+                    contentPath = contentPath.replaceFirst(path, "");
                     if (contentPath.isEmpty()) {
                         contentPath = ghContent.getName();
                     }
@@ -61,7 +61,7 @@ public class Main {
 
                 try {
                     to.file(gitHub);
-                } catch (IOException e) {
+                } catch (IOException ignored) {
                     if (to.getFile().matches("(.+)\\.(.+)"))
                         updateOrCreate(toRepository.getFullName(), "".getBytes(StandardCharsets.UTF_8), null, to.getFile(), "create empty file", token);
                 }
@@ -126,9 +126,19 @@ public class Main {
                 .build();
 
         try (Response response = client.newCall(request).execute()) {
-            System.out.println(response.body().string());
+            String body = response.body().string();
             if (!response.isSuccessful()) {
-                throw new IOException("Unexpected code " + response);
+                if (body.startsWith("{\"message\":\"Resource not accessible by integration\"")) {
+                    System.err.println("""
+                            ---------------------------
+                            
+                            We could not copy the files, because the access token provided is the default runner token
+                            or the PAT doesnt have the repo scope set to true!
+                            
+                            ---------------------------
+                            """);
+                }
+                throw new IOException("Unexpected response " + response);
             }
         }
     }
