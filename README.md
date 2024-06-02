@@ -37,7 +37,7 @@ The configuration looks like this and can be also found [here](./example.config.
 
 ```yaml
 
-global-commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
+commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
 entries:
   - commit-message: "Sync README" # Optionally, Overwrites the global commit message
     from: # Copies from The repo Knerio/Knerio the file README.md
