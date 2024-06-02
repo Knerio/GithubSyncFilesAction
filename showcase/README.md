@@ -28,13 +28,14 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
-2. 🎉 Merged PR [#29](https://github.com/Knerio/JavaUtils/pull/29) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-3. ✌️ Released [2.1.1](https://github.com/Knerio/JavaUtils/releases/tag/2.1.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ❌ Closed PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
+2. 💪 Opened PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
+3. 🎉 Merged PR [#29](https://github.com/Knerio/JavaUtils/pull/29) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ✌️ Released [2.1.1](https://github.com/Knerio/JavaUtils/releases/tag/2.1.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+5. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
