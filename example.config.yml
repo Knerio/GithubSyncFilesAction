@@ -8,7 +8,9 @@ entries:
       repo: "Knerio/GithubSyncFilesAction" # Optionally, if not set, the repository of the action is getting selected
       file: "showcase/README.md"
 
-  - from:
+  - ignored:
+      - "*.config.yml" # You can also exclude files and directories
+    from:
       repo: "Knerio/Knerio"
       file: ".github/" # You can also copy a whole directory
     to:

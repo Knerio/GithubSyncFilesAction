@@ -37,21 +37,23 @@ The configuration looks like this and can be also found [here](./example.config.
 
 ```yaml
 
-global-commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
+commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub files"
 entries:
   - commit-message: "Sync README" # Optionally, Overwrites the global commit message
     from: # Copies from The repo Knerio/Knerio the file README.md
-      repo: "Knerio/Knerio"
+      repo: "Knerio/Knerio" # Optionally, if not set, the repository of the action is getting selected
       file: "README.md"
     to: # Pastes as README.md (can also be renamed) in Knerio/GithubSyncFilesAction
-      repo: "Knerio/GithubSyncFilesAction"
+      repo: "Knerio/GithubSyncFilesAction" # Optionally, if not set, the repository of the action is getting selected
       file: "showcase/README.md"
 
-  - from:
-      repo: "Knerio/Knerio"
+  - ignored:
+      - "*.config.yml" # You can also exclude files and directories
+    from:
+      repo: "Knerio/Knerio" # Optionally, if not set, the repository of the action is getting selected
       file: ".github/" # You can also copy a whole directory
     to:
       repo: "Knerio/GithubSyncFilesAction"
-      file: "showcase/second/"
+      file: "showcase/second/" # Optionally, if not set, the repository of the action is getting selected
 
 ```
