@@ -3,6 +3,7 @@ package de.derioo.action;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
+import de.derioo.action.config.Entry;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 import lombok.extern.jackson.Jacksonized;
@@ -36,54 +37,35 @@ public class Config {
         return new YAMLMapper().readValue(new File(s), Config.class);
     }
 
+
+
     @Getter
     @Setter
     @AllArgsConstructor
     @Jacksonized
     @Builder
     @FieldDefaults(level = AccessLevel.PRIVATE)
-    public static class Entry {
+    public static class SingleFileLocation {
 
-        SingleFileLocation from;
-        SingleFileLocation to;
-
-        @JsonProperty("commit-message")
+        @Builder.Default
         @JsonIgnoreProperties(ignoreUnknown = true)
-        @Builder.Default()
-        String commitMessage = null;
-
-        @Builder.Default()
-        @JsonIgnoreProperties(ignoreUnknown = true)
-        List<String> ignore = new ArrayList<>();
-
-        @Getter
-        @Setter
-        @AllArgsConstructor
-        @Jacksonized
-        @Builder
-        @FieldDefaults(level = AccessLevel.PRIVATE)
-        public static class SingleFileLocation {
-
-            @Builder.Default
-            @JsonIgnoreProperties(ignoreUnknown = true)
-            String repo = System.getenv("INPUT_REPOSITORY");
-            String file;
+        String repo = System.getenv("INPUT_REPOSITORY");
+        String file;
 
 
-            public @Nullable Content file(@NotNull GitHub gitHub) throws IOException {
+        public @Nullable Content file(@NotNull GitHub gitHub) throws IOException {
+            try {
+                return new Content(gitHub.getRepository(repo).getFileContent(file));
+            } catch (IOException e) {
                 try {
-                    return new Content(gitHub.getRepository(repo).getFileContent(file));
-                } catch (IOException e) {
-                    try {
-                        return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
-                    } catch (IOException x) {
-                        return null;
-                    }
+                    return new Content(new ArrayList<>(gitHub.getRepository(repo).getDirectoryContent(file)));
+                } catch (IOException x) {
+                    return null;
                 }
             }
-
-
         }
+
+
     }
 
     @Getter
