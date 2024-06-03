@@ -28,40 +28,43 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.1.1](https://github.com/Knerio/JavaUtils/releases/tag/2.1.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-2. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-3. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ❌ Closed PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
+2. 💪 Opened PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
+3. 🎉 Merged PR [#29](https://github.com/Knerio/JavaUtils/pull/29) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ✌️ Released [2.1.1](https://github.com/Knerio/JavaUtils/releases/tag/2.1.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+5. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-993-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1010-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.1%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-🌆 Daytime                688 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                1021 commits        ████████████░░░░░░░░░░░░░   46.79 % 
-🌙 Night                  404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌞 Morning                54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌆 Daytime                654 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                803 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
+🌙 Night                  389 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Tuesday                  293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Wednesday                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 359 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 351 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Sunday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Monday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Tuesday                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Thursday                 314 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   335 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Saturday                 344 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 ```
 
 
@@ -71,24 +74,24 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     7 hrs 45 mins       ██████████████░░░░░░░░░░░   54.57 % 
-TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Kotlin                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Vue.js                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Java                     10 hrs 29 mins      █████████████░░░░░░░░░░░░   52.58 % 
+YAML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Kotlin                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Intellijidea             14 hrs 12 mins      █████████████████████████   100.00 % 
+Intellijidea             19 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GithubCommitHistoryAction4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.94 % 
-knerio.github.io         2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-javautils                1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-SyncFilesGithubAction    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-varilx-api               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+SyncFilesGithubAction    5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+GithubCommitHistoryAction4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+javautils                3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+knerio.github.io         2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+varilx-api               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Windows                  14 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -104,6 +107,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 20:35:05 UTC
+ Last Updated on 03/06/2024 01:08:29 UTC
 <!--END_SECTION:waka-->
 
