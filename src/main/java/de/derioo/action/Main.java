@@ -124,12 +124,7 @@ public class Main {
         try (Response response = client.newCall(checkRequest).execute()) {
             String string = response.body().string();
             ContentsResponse contentsResponse = new ObjectMapper().readValue(string, ContentsResponse.class);
-            System.out.println("Comparing:");
-            System.out.println(contentsResponse.content.replace("\\n", "").replace("\n", ""));
-            System.out.println("and");
-            System.out.println(base64Content);
-            System.out.println("---");
-            if (contentsResponse.content.replace("\\n", "").replace("\n", "").equals(base64Content)) {
+            if (contentsResponse.content.replace("\n", "").equals(base64Content)) {
                 System.out.println("Skipping file " + path + " because contents are the same");
                 System.out.println("SHA: " + sha);
                 return;
