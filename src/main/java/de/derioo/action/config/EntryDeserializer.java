@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonDeserializer;
 import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
 
@@ -15,7 +16,7 @@ public class EntryDeserializer extends JsonDeserializer<Entry> {
 
         if (root.has("from") && root.get("from").isTextual() &&
                 root.has("to") && root.get("to").isTextual()) {
-            return new Entry.Simple(root.get("from").asText(), root.get("to").asText());
+            return new ObjectMapper().treeToValue(root, Entry.Simple.class);
         } else {
             return p.getCodec().treeToValue(root, Entry.Default.class);
         }
