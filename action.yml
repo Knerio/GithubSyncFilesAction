@@ -7,6 +7,10 @@ inputs:
     description: "GitHub access token with Repo scope"
     required: true
     default: ${{ github.token }}
+  REPOSITORY:
+    description: "The repository where this action is getting executed, can be overridden in the config"
+    required: false
+    default: ${{ github.repository }}
   CONFIG:
     description: "The location of you config (see example.config.yml for inspiration)"
     default: "./.github/sync.config.yml"

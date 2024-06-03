@@ -2,10 +2,10 @@ commit-message: "Global commit message"  # Optional, defaults to "Sync GitHub fi
 entries:
   - commit-message: "Sync README" # Optionally, Overwrites the global commit message
     from: # Copies from The repo Knerio/Knerio the file README.md
-      repo: "Knerio/Knerio"
+      repo: "Knerio/Knerio" # Optionally, if not set, the repository of the action is getting selected
       file: "README.md"
     to: # Pastes as README.md (can also be renamed) in Knerio/GithubSyncFilesAction
-      repo: "Knerio/GithubSyncFilesAction"
+      repo: "Knerio/GithubSyncFilesAction" # Optionally, if not set, the repository of the action is getting selected
       file: "showcase/README.md"
 
   - from:

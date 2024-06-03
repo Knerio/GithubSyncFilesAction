@@ -63,7 +63,10 @@ public class Config {
         @Builder
         @FieldDefaults(level = AccessLevel.PRIVATE)
         public static class SingleFileLocation {
-            String repo;
+
+            @Builder.Default
+            @JsonIgnoreProperties(ignoreUnknown = true)
+            String repo = System.getenv("INPUT_REPOSITORY");
             String file;
 
 
