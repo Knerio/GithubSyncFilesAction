@@ -125,7 +125,7 @@ public class Main {
                 .get()
                 .build();
         try (Response response = client.newCall(checkRequest).execute()) {
-            ContentsResponse contentsResponse = new ObjectMapper().enable(JsonParser.Feature.ALLOW_MISSING_VALUES).convertValue(response.body().string(), ContentsResponse.class);
+            ContentsResponse contentsResponse = new ObjectMapper().readValue(response.body().string(), ContentsResponse.class);
             if (contentsResponse.content.equalsIgnoreCase(base64Content)) {
                 System.out.println("Skipping file " + path + " because contents are the same");
                 System.out.println("SHA: " + sha);
