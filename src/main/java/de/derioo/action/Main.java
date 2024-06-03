@@ -1,6 +1,7 @@
 package de.derioo.action;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import de.derioo.action.config.Entry;
 import lombok.*;
 import lombok.extern.jackson.Jacksonized;
 import okhttp3.MediaType;
@@ -31,9 +32,9 @@ public class Main {
             String token = System.getenv("INPUT_GITHUB_TOKEN");
 
             GitHub gitHub = GitHub.connectUsingOAuth(token);
-            for (Config.Entry entry : config.getEntries()) {
-                final Config.Entry.SingleFileLocation from = entry.getFrom();
-                final Config.Entry.SingleFileLocation to = entry.getTo();
+            for (Entry entry : config.getEntries()) {
+                final Config.SingleFileLocation from = entry.from();
+                final Config.SingleFileLocation to = entry.to();
                 final GHRepository toRepository = gitHub.getRepository(to.getRepo());
                 final Config.Content selectedFrom = Objects.requireNonNull(from.file(gitHub), "Provided from doesnt exists");
                 final List<GHContent> toCopy = new ArrayList<>(selectedFrom.all());
@@ -53,7 +54,7 @@ public class Main {
 
                     if (contentPath.startsWith("/")) contentPath = contentPath.substring(1);
 
-                    for (String ignored : entry.getIgnore()) {
+                    for (String ignored : entry.ignore()) {
                         ignored = "glob:" + ignored;
                         PathMatcher matcher = FileSystems.getDefault().getPathMatcher(ignored);
                         if (matcher.matches(Path.of(contentPath))) toCopy.remove(ghContent);
@@ -82,7 +83,7 @@ public class Main {
         }
     }
 
-    private static void createOrUpdateSingleFile(@NotNull List<GHContent> toCopy, GHRepository toRepository, String sha, Config.Entry.SingleFileLocation to, Config config, Config.Entry entry, String token) {
+    private static void createOrUpdateSingleFile(@NotNull List<GHContent> toCopy, GHRepository toRepository, String sha, Config.SingleFileLocation to, Config config, Entry entry, String token) {
         for (GHContent ghContent : toCopy) {
             try (InputStream stream = ghContent.read()) {
                 updateOrCreate(toRepository.getFullName(), stream.readAllBytes(), sha, to.getFile(), getCommitMessage(config, entry), token);
@@ -92,7 +93,7 @@ public class Main {
         }
     }
 
-    private static void buildFolder(String token, Config.Entry.SingleFileLocation from, Config.Entry.SingleFileLocation to, GHRepository toRepository, @NotNull List<GHContent> toCopy, Config.Entry entry, Config config) {
+    private static void buildFolder(String token, Config.SingleFileLocation from, Config.SingleFileLocation to, GHRepository toRepository, @NotNull List<GHContent> toCopy, Entry entry, Config config) {
         for (GHContent ghContent : toCopy) {
             try (InputStream stream = ghContent.read()) {
                 String rel = ghContent.getPath().replaceFirst(from.getFile(), "");
@@ -103,8 +104,8 @@ public class Main {
         }
     }
 
-    private static String getCommitMessage(Config config, Config.@NotNull Entry entry) {
-        if (entry.getCommitMessage() != null) return entry.getCommitMessage();
+    private static String getCommitMessage(Config config, Entry entry) {
+        if (entry.commitMessage() != null) return entry.commitMessage();
         return config.getGlobalCommitMessage();
     }
 
