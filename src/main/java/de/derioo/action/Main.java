@@ -21,10 +21,7 @@ import java.io.InputStream;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
 import java.nio.file.PathMatcher;
-import java.util.ArrayList;
-import java.util.Base64;
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
 
 public class Main {
 
@@ -125,10 +122,14 @@ public class Main {
                 .get()
                 .build();
         try (Response response = client.newCall(checkRequest).execute()) {
-            ContentsResponse contentsResponse = new ObjectMapper().readValue(response.body().string(), ContentsResponse.class);
+            String string = response.body().string();
+            ContentsResponse contentsResponse = new ObjectMapper().readValue(string, ContentsResponse.class);
+            System.out.println(string);
+            System.out.println("---");
             System.out.println(contentsResponse.content);
+            System.out.println("---");
             System.out.println(base64Content);
-            if (contentsResponse.content.equalsIgnoreCase(base64Content) || Base64.getDecoder().decode(contentsResponse.content).equals(content)) {
+            if (contentsResponse.content.equalsIgnoreCase(base64Content) || Arrays.equals(Base64.getDecoder().decode(contentsResponse.content), content)) {
                 System.out.println("Skipping file " + path + " because contents are the same");
                 System.out.println("SHA: " + sha);
                 return;
