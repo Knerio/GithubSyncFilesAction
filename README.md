@@ -64,8 +64,8 @@ You can also use the short form if you dont need to specify both repositories:
 
 ```yaml
 entries:
-  - from: README.md # this uses the default repository, where the action is getting executed
-    to: README
+  - from: "README.md" # this uses the default repository, where the action is getting executed
+    to: "README"
 ```
 The equivalent would be: 
 ````yaml
