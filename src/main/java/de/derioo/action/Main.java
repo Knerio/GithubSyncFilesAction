@@ -1,8 +1,11 @@
 package de.derioo.action;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import de.derioo.action.config.Entry;
 import lombok.*;
+import lombok.experimental.FieldDefaults;
 import lombok.extern.jackson.Jacksonized;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
@@ -112,10 +115,30 @@ public class Main {
     public static void updateOrCreate(String repoName, byte[] content, String sha, @NotNull String path, String commitMessage, String token) throws IOException {
         if (path.endsWith("/")) path = path.substring(0, path.length() - 1);
         OkHttpClient client = new OkHttpClient();
+        String base64Content = Base64.getEncoder().encodeToString(content);
+
+        okhttp3.Request checkRequest = new okhttp3.Request.Builder()
+                .url("https://api.github.com/repos/" + repoName + "/contents/" + path)
+                .addHeader("Authorization", "token " + token)
+                .addHeader("X-GitHub-Api-Version", "2022-11-28")
+                .addHeader("Accept", "application/vnd.github+json")
+                .get()
+                .build();
+        try (Response response = client.newCall(checkRequest).execute()) {
+            ContentsResponse contentsResponse = new ObjectMapper().convertValue(response.body().string(), ContentsResponse.class);
+            if (contentsResponse.content.equalsIgnoreCase(base64Content)) {
+                System.out.println("Skipping file " + path + " because contents are the same");
+                System.out.println("SHA: " + sha);
+                return;
+            }
+        }
+
+
 
 
         CommitRequest.Commiter author = new CommitRequest.Commiter("bot", "41898282+github-actions[bot]@users.noreply.github.com");
-        CommitRequest json = new CommitRequest(commitMessage, Base64.getEncoder().encodeToString(content), sha, author, author);
+
+        CommitRequest json = new CommitRequest(commitMessage, base64Content, sha, author, author);
 
         RequestBody body = RequestBody.create(
                 new ObjectMapper().writeValueAsString(json),
@@ -181,5 +204,21 @@ public class Main {
 
         }
     }
+
+    @Getter
+    @Setter
+    @AllArgsConstructor
+    @NoArgsConstructor
+    @Builder
+    @Jacksonized
+    @JsonIgnoreProperties(ignoreUnknown = true)
+    @FieldDefaults(level = AccessLevel.PRIVATE)
+    private static class ContentsResponse {
+
+        String content;
+
+    }
+
+
 
 }
