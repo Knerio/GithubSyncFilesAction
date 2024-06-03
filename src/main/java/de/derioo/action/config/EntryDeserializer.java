@@ -13,7 +13,7 @@ public class EntryDeserializer extends JsonDeserializer<Entry> {
     @Override
     public Entry deserialize(JsonParser p, DeserializationContext ctx) throws IOException {
         JsonNode root = p.getCodec().readTree(p);
-        if (root == null) return ctx.readValue(p, Entry.class);
+        if (root == null) return ctx.readValue(p, Entry.Default.class);
         if (root.has("from") && root.get("from").isTextual() &&
                 root.has("to") && root.get("to").isTextual()) {
             return new Entry.Simple(root.get("from").asText(), root.get("to").asText());
