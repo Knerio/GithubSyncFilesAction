@@ -10,6 +10,7 @@ import lombok.extern.jackson.Jacksonized;
 
 import java.util.ArrayList;
 import java.util.List;
+
 @Getter
 @Setter
 @AllArgsConstructor(access = AccessLevel.PROTECTED)
@@ -55,7 +56,9 @@ public abstract class Entry {
         String from;
         String to;
 
-        public Simple(String from, String to) {
+        public Simple(
+                @JsonProperty("from") String from,
+                @JsonProperty("to") String to) {
             super(
                     new Config.SingleFileLocation(System.getenv("INPUT_REPOSITORY"), from),
                     new Config.SingleFileLocation(System.getenv("INPUT_REPOSITORY"), to),
