@@ -54,7 +54,7 @@ public class Main {
 
                     if (contentPath.startsWith("/")) contentPath = contentPath.substring(1);
 
-                    for (String ignored : entry.getIgnore()) {
+                    for (String ignored : entry.getIgnored()) {
                         ignored = "glob:" + ignored;
                         PathMatcher matcher = FileSystems.getDefault().getPathMatcher(ignored);
                         if (matcher.matches(Path.of(contentPath))) toCopy.remove(ghContent);
