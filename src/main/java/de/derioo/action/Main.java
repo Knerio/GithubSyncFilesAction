@@ -33,8 +33,8 @@ public class Main {
 
             GitHub gitHub = GitHub.connectUsingOAuth(token);
             for (Entry entry : config.getEntries()) {
-                final Config.SingleFileLocation from = entry.from();
-                final Config.SingleFileLocation to = entry.to();
+                final Config.SingleFileLocation from = entry.getFrom();
+                final Config.SingleFileLocation to = entry.getTo();
                 final GHRepository toRepository = gitHub.getRepository(to.getRepo());
                 final Config.Content selectedFrom = Objects.requireNonNull(from.file(gitHub), "Provided from doesnt exists");
                 final List<GHContent> toCopy = new ArrayList<>(selectedFrom.all());
@@ -54,7 +54,7 @@ public class Main {
 
                     if (contentPath.startsWith("/")) contentPath = contentPath.substring(1);
 
-                    for (String ignored : entry.ignore()) {
+                    for (String ignored : entry.getIgnore()) {
                         ignored = "glob:" + ignored;
                         PathMatcher matcher = FileSystems.getDefault().getPathMatcher(ignored);
                         if (matcher.matches(Path.of(contentPath))) toCopy.remove(ghContent);
@@ -105,7 +105,7 @@ public class Main {
     }
 
     private static String getCommitMessage(Config config, Entry entry) {
-        if (entry.commitMessage() != null) return entry.commitMessage();
+        if (entry.getCommitMessage() != null) return entry.getCommitMessage();
         return config.getGlobalCommitMessage();
     }
 
