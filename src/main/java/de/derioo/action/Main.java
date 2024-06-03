@@ -126,14 +126,14 @@ public class Main {
                 .build();
         try (Response response = client.newCall(checkRequest).execute()) {
             ContentsResponse contentsResponse = new ObjectMapper().readValue(response.body().string(), ContentsResponse.class);
-            if (contentsResponse.content.equalsIgnoreCase(base64Content)) {
+            System.out.println(contentsResponse.content);
+            System.out.println(base64Content);
+            if (contentsResponse.content.equalsIgnoreCase(base64Content) || Base64.getDecoder().decode(contentsResponse.content).equals(content)) {
                 System.out.println("Skipping file " + path + " because contents are the same");
                 System.out.println("SHA: " + sha);
                 return;
             }
         }
-
-
 
 
         CommitRequest.Commiter author = new CommitRequest.Commiter("bot", "41898282+github-actions[bot]@users.noreply.github.com");
@@ -228,7 +228,6 @@ public class Main {
         String encoding;
 
     }
-
 
 
 }
