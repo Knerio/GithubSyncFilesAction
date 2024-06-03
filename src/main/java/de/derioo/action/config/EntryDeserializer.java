@@ -12,14 +12,13 @@ public class EntryDeserializer extends JsonDeserializer<Entry> {
 
     @Override
     public Entry deserialize(JsonParser p, DeserializationContext ctx) throws IOException {
-        ObjectMapper mapper = (ObjectMapper) p.getCodec();
-        JsonNode root = mapper.readTree(p);
+        JsonNode root = p.getCodec().readTree(p);
 
         if (root.has("from") && root.get("from").isTextual() &&
                 root.has("to") && root.get("to").isTextual()) {
-            return mapper.treeToValue(root, Entry.Simple.class);
+            return p.getCodec().treeToValue(root, Entry.Simple.class);
         } else {
-            return mapper.treeToValue(root, Entry.Default.class);
+            return p.getCodec().treeToValue(root, Entry.Default.class);
         }
     }
 }
