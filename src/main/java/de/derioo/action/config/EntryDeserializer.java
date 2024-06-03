@@ -16,7 +16,7 @@ public class EntryDeserializer extends JsonDeserializer<Entry> {
 
         if (root.has("from") && root.get("from").isTextual() &&
                 root.has("to") && root.get("to").isTextual()) {
-            return p.getCodec().treeToValue(root, Entry.Simple.class);
+            return new Entry.Simple(root.get("from").asText(), root.get("to").asText());
         } else {
             return p.getCodec().treeToValue(root, Entry.Default.class);
         }
