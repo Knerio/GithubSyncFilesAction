@@ -21,7 +21,7 @@ public abstract class Entry {
     Config.SingleFileLocation to;
     @JsonProperty("commit-message")
     String commitMessage;
-    List<String> ignore;
+    List<String> ignored;
 
     @Jacksonized
     @lombok.Builder
@@ -37,14 +37,14 @@ public abstract class Entry {
 
         @Builder.Default
         @JsonIgnoreProperties(ignoreUnknown = true)
-        List<String> ignore = new ArrayList<>();
+        List<String> ignored = new ArrayList<>();
 
         public Default(
                 @JsonProperty("from") Config.SingleFileLocation from,
                 @JsonProperty("to") Config.SingleFileLocation to,
                 @JsonProperty("commit-message") String commitMessage,
-                @JsonProperty("ignore") List<String> ignore) {
-            super(from, to, commitMessage, ignore);
+                @JsonProperty("ignored") List<String> ignored) {
+            super(from, to, commitMessage, ignored);
         }
     }
 
