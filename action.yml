@@ -18,7 +18,7 @@ inputs:
 
 runs:
   using: "docker"
-  image: "docker://ghcr.io/dario-205/github-sync-file-action:latest"
+  image: "docker://ghcr.io/dario-205/github-sync-file-action:0.0.0"
 
 branding:
   icon: "info"
