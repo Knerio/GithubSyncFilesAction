@@ -28,11 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/Knerio/GithubSyncFilesAction/pull/5) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-2. 💪 Opened PR [#5](https://github.com/Knerio/GithubSyncFilesAction/pull/5) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-3. ❌ Closed PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
-4. 💪 Opened PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
-5. 🎉 Merged PR [#29](https://github.com/Knerio/JavaUtils/pull/29) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ✌️ Released [0.0.2](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+2. ✌️ Released [0.0.1](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+3. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+4. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+5. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+6. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+7. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+8. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+9. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+10. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
