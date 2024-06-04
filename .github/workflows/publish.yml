@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - run: docker build -t ghcr.io/dario-205/github-sync-file-action:latest .
-      - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login -u dario-205 --password-stdin ghcr.io
+      - run: docker build -t ghcr.io/knerio/github-sync-file-action:latest .
+      - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login -u $ --password-stdin ghcr.io
         name: Login to registry
-      - run: docker push ghcr.io/dario-205/github-sync-file-action:latest
+      - run: docker push ghcr.io/knerio/github-sync-file-action:latest
