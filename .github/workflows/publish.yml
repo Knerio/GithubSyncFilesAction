@@ -18,3 +18,4 @@ jobs:
       - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login -u dario-205 --password-stdin ghcr.io
         name: Login to registry
       - run: docker push ghcr.io/dario-205/github-sync-file-action:latest
+      
