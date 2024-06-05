@@ -3,14 +3,13 @@ package de.derioo.action.config;
 import de.derioo.action.Config;
 import lombok.Builder;
 import lombok.Getter;
+import lombok.experimental.SuperBuilder;
 import lombok.extern.jackson.Jacksonized;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@Jacksonized
-@Builder
 @Getter
 public class ShortConfig extends Config {
     public ShortConfig(@NotNull List<ShortEntry> entries, String globalCommitMessage) {
