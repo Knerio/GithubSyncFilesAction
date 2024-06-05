@@ -2,8 +2,12 @@ package de.derioo.action;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonSubTypes;
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
 import de.derioo.action.config.Entry;
+import de.derioo.action.config.ShortConfig;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 import lombok.extern.jackson.Jacksonized;
@@ -24,6 +28,15 @@ import java.util.List;
 @Jacksonized
 @Builder
 @FieldDefaults(level = AccessLevel.PRIVATE)
+@JsonTypeInfo(
+        use = JsonTypeInfo.Id.NAME,
+        property = "type",
+        defaultImpl = Config.class
+)
+@JsonSubTypes({
+        @JsonSubTypes.Type(value = ShortConfig.class, name = "short"),
+        @JsonSubTypes.Type(value = Config.class, name = "default"),
+})
 public class Config {
 
     @Builder.Default
