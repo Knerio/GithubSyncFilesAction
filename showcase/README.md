@@ -28,10 +28,10 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.2](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-2. ✌️ Released [0.0.1](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-3. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-4. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+1. 🎉 Merged PR [#33](https://github.com/Knerio/SimpleChals/pull/33) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+2. 🎉 Merged PR [#34](https://github.com/Knerio/SimpleChals/pull/34) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+3. ✌️ Released [0.0.2](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+4. ✌️ Released [0.0.1](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 5. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 6. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
 7. ✌️ Released [0.0.0](https://github.com/Knerio/GithubSyncFilesAction/releases/tag/0.0.0) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
