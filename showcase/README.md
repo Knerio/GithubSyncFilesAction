@@ -28,16 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/Knerio/DiscordWebhook/pull/5) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
-2. 🎉 Merged PR [#6](https://github.com/Knerio/DiscordWebhook/pull/6) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
-3. 🎉 Merged PR [#5](https://github.com/Knerio/CommandFramework/pull/5) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
-4. 🎉 Merged PR [#6](https://github.com/Knerio/CommandFramework/pull/6) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
-5. 🎉 Merged PR [#6](https://github.com/Knerio/InventoryFramwork/pull/6) in [Knerio/InventoryFramwork](https://github.com/Knerio/InventoryFramwork)<br>
-6. 🎉 Merged PR [#5](https://github.com/Knerio/InventoryFramwork/pull/5) in [Knerio/InventoryFramwork](https://github.com/Knerio/InventoryFramwork)<br>
-7. 🎉 Merged PR [#5](https://github.com/Knerio/HotPotato/pull/5) in [Knerio/HotPotato](https://github.com/Knerio/HotPotato)<br>
-8. 🎉 Merged PR [#6](https://github.com/Knerio/HotPotato/pull/6) in [Knerio/HotPotato](https://github.com/Knerio/HotPotato)<br>
-9. 🎉 Merged PR [#7](https://github.com/Knerio/HotPotato/pull/7) in [Knerio/HotPotato](https://github.com/Knerio/HotPotato)<br>
-10. 🎉 Merged PR [#2](https://github.com/Knerio/JsonLibrary/pull/2) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
+1. 📔 Created new repository [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+2. ✌️ Released [2.4.1](https://github.com/Knerio/JavaUtils/releases/tag/2.4.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. ✌️ Released [2.4.0](https://github.com/Knerio/JavaUtils/releases/tag/2.4.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. 🎉 Merged PR [#5](https://github.com/Knerio/DiscordWebhook/pull/5) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
+5. 🎉 Merged PR [#6](https://github.com/Knerio/DiscordWebhook/pull/6) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
+6. 🎉 Merged PR [#5](https://github.com/Knerio/CommandFramework/pull/5) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
+7. 🎉 Merged PR [#6](https://github.com/Knerio/CommandFramework/pull/6) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
+8. 🎉 Merged PR [#6](https://github.com/Knerio/InventoryFramwork/pull/6) in [Knerio/InventoryFramwork](https://github.com/Knerio/InventoryFramwork)<br>
+9. 🎉 Merged PR [#5](https://github.com/Knerio/InventoryFramwork/pull/5) in [Knerio/InventoryFramwork](https://github.com/Knerio/InventoryFramwork)<br>
+10. 🎉 Merged PR [#5](https://github.com/Knerio/HotPotato/pull/5) in [Knerio/HotPotato](https://github.com/Knerio/HotPotato)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
