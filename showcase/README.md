@@ -28,16 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.6.14](https://github.com/Knerio/JavaUtils/releases/tag/2.6.14) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-2. ✌️ Released [2.6.12](https://github.com/Knerio/JavaUtils/releases/tag/2.6.12) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-3. ✌️ Released [2.6.11](https://github.com/Knerio/JavaUtils/releases/tag/2.6.11) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. 🎉 Merged PR [#36](https://github.com/Knerio/JavaUtils/pull/36) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ✌️ Released [2.6.0](https://github.com/Knerio/JavaUtils/releases/tag/2.6.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. 🎉 Merged PR [#35](https://github.com/Knerio/JavaUtils/pull/35) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ✌️ Released [2.5.6](https://github.com/Knerio/JavaUtils/releases/tag/2.5.6) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-8. ✌️ Released [2.5.5](https://github.com/Knerio/JavaUtils/releases/tag/2.5.5) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-9. ✌️ Released [2.5.4](https://github.com/Knerio/JavaUtils/releases/tag/2.5.4) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-10. ✌️ Released [2.5.3](https://github.com/Knerio/JavaUtils/releases/tag/2.5.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ✌️ Released [2.6.15](https://github.com/Knerio/JavaUtils/releases/tag/2.6.15) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ✌️ Released [2.6.14](https://github.com/Knerio/JavaUtils/releases/tag/2.6.14) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. ✌️ Released [2.6.12](https://github.com/Knerio/JavaUtils/releases/tag/2.6.12) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ✌️ Released [2.6.11](https://github.com/Knerio/JavaUtils/releases/tag/2.6.11) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+5. 🎉 Merged PR [#36](https://github.com/Knerio/JavaUtils/pull/36) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. ✌️ Released [2.6.0](https://github.com/Knerio/JavaUtils/releases/tag/2.6.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. 🎉 Merged PR [#35](https://github.com/Knerio/JavaUtils/pull/35) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ✌️ Released [2.5.6](https://github.com/Knerio/JavaUtils/releases/tag/2.5.6) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+9. ✌️ Released [2.5.5](https://github.com/Knerio/JavaUtils/releases/tag/2.5.5) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. ✌️ Released [2.5.4](https://github.com/Knerio/JavaUtils/releases/tag/2.5.4) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
