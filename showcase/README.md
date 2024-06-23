@@ -28,16 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/Knerio/ReminderBot/pull/12) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-2. 🎉 Merged PR [#10](https://github.com/Knerio/ReminderBot/pull/10) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-3. 🎉 Merged PR [#13](https://github.com/Knerio/ReminderBot/pull/13) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-4. 🎉 Merged PR [#37](https://github.com/Knerio/JavaUtils/pull/37) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. 🔱 Forked [Knerio/LiteCommands](https://github.com/Knerio/LiteCommands) from [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-6. ✌️ Released [2.7.0](https://github.com/Knerio/JavaUtils/releases/tag/2.7.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ✌️ Released [2.6.15](https://github.com/Knerio/JavaUtils/releases/tag/2.6.15) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-8. ✌️ Released [2.6.14](https://github.com/Knerio/JavaUtils/releases/tag/2.6.14) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-9. ✌️ Released [2.6.12](https://github.com/Knerio/JavaUtils/releases/tag/2.6.12) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-10. ✌️ Released [2.6.11](https://github.com/Knerio/JavaUtils/releases/tag/2.6.11) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. 🎉 Merged PR [#35](https://github.com/Knerio/SimpleChals/pull/35) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+2. 🎉 Merged PR [#12](https://github.com/Knerio/ReminderBot/pull/12) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+3. 🎉 Merged PR [#10](https://github.com/Knerio/ReminderBot/pull/10) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+4. 🎉 Merged PR [#13](https://github.com/Knerio/ReminderBot/pull/13) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+5. 🎉 Merged PR [#37](https://github.com/Knerio/JavaUtils/pull/37) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. 🔱 Forked [Knerio/LiteCommands](https://github.com/Knerio/LiteCommands) from [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
+7. ✌️ Released [2.7.0](https://github.com/Knerio/JavaUtils/releases/tag/2.7.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ✌️ Released [2.6.15](https://github.com/Knerio/JavaUtils/releases/tag/2.6.15) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+9. ✌️ Released [2.6.14](https://github.com/Knerio/JavaUtils/releases/tag/2.6.14) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. ✌️ Released [2.6.12](https://github.com/Knerio/JavaUtils/releases/tag/2.6.12) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
