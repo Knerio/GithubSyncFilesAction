@@ -28,45 +28,45 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/Knerio/DiscordWebhook/pull/8) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
-2. 🎉 Merged PR [#7](https://github.com/Knerio/CommandFramework/pull/7) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
-3. 🎉 Merged PR [#40](https://github.com/Knerio/JavaUtils/pull/40) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. 🎉 Merged PR [#9](https://github.com/Knerio/GithubSyncFilesAction/pull/9) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-5. 💪 Opened PR [#220](https://github.com/code0-tech/sagittarius/pull/220) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 🎉 Merged PR [#7](https://github.com/Knerio/GithubSyncFilesAction/pull/7) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-7. 🎉 Merged PR [#35](https://github.com/Knerio/SimpleChals/pull/35) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-8. 🎉 Merged PR [#12](https://github.com/Knerio/ReminderBot/pull/12) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-9. 🎉 Merged PR [#10](https://github.com/Knerio/ReminderBot/pull/10) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-10. 🎉 Merged PR [#13](https://github.com/Knerio/ReminderBot/pull/13) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+1. 🎉 Merged PR [#36](https://github.com/Knerio/SimpleChals/pull/36) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+2. 💪 Opened PR [#225](https://github.com/code0-tech/sagittarius/pull/225) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#8](https://github.com/Knerio/DiscordWebhook/pull/8) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
+4. 🎉 Merged PR [#7](https://github.com/Knerio/CommandFramework/pull/7) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
+5. 🎉 Merged PR [#40](https://github.com/Knerio/JavaUtils/pull/40) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. 🎉 Merged PR [#9](https://github.com/Knerio/GithubSyncFilesAction/pull/9) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+7. 💪 Opened PR [#220](https://github.com/code0-tech/sagittarius/pull/220) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 🎉 Merged PR [#7](https://github.com/Knerio/GithubSyncFilesAction/pull/7) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+9. 🎉 Merged PR [#35](https://github.com/Knerio/SimpleChals/pull/35) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+10. 🎉 Merged PR [#12](https://github.com/Knerio/ReminderBot/pull/12) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-212.8%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌆 Daytime                1219 commits        ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌃 Evening                2070 commits        █████████████░░░░░░░░░░░░   53.52 % 
-🌙 Night                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌞 Morning                125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+🌆 Daytime                1229 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                2196 commits        ██████████████░░░░░░░░░░░   54.65 % 
+🌙 Night                  468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Tuesday                  515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Thursday                 477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Saturday                 696 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Sunday                   725 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Monday                   463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Thursday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Saturday                 755 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Sunday                   749 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 
 
@@ -76,25 +76,25 @@ Sunday                   725 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    19 hrs 2 mins       ██████████████████░░░░░░░   72.71 % 
-Ruby                     4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Java                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    18 hrs 33 mins      ██████████████████░░░░░░░   73.59 % 
+Ruby                     4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Java                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 2 mins       ██████████████████░░░░░░░   72.71 % 
-IntelliJ IDEA            7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Chrome                   18 hrs 33 mins      ██████████████████░░░░░░░   73.59 % 
+IntelliJ IDEA            6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
 
 🐱‍💻 Projects: 
-sagittarius              7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-VaxBot                   5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-LiveSplit.AutoSplitters  3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-javautils                3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-auto-subs                1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+sagittarius              7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+LiveSplit.AutoSplitters  5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+VaxBot                   5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+javautils                3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+auto-subs                1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Windows                  26 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,6 +110,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2024 01:10:07 UTC
+ Last Updated on 05/07/2024 01:09:52 UTC
 <!--END_SECTION:waka-->
 
