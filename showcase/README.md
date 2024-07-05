@@ -28,16 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#36](https://github.com/Knerio/SimpleChals/pull/36) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-2. 💪 Opened PR [#225](https://github.com/code0-tech/sagittarius/pull/225) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 🎉 Merged PR [#8](https://github.com/Knerio/DiscordWebhook/pull/8) in [Knerio/DiscordWebhook](https://github.com/Knerio/DiscordWebhook)<br>
-4. 🎉 Merged PR [#7](https://github.com/Knerio/CommandFramework/pull/7) in [Knerio/CommandFramework](https://github.com/Knerio/CommandFramework)<br>
-5. 🎉 Merged PR [#40](https://github.com/Knerio/JavaUtils/pull/40) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. 🎉 Merged PR [#9](https://github.com/Knerio/GithubSyncFilesAction/pull/9) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-7. 💪 Opened PR [#220](https://github.com/code0-tech/sagittarius/pull/220) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. 🎉 Merged PR [#7](https://github.com/Knerio/GithubSyncFilesAction/pull/7) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-9. 🎉 Merged PR [#35](https://github.com/Knerio/SimpleChals/pull/35) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-10. 🎉 Merged PR [#12](https://github.com/Knerio/ReminderBot/pull/12) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+1. ✔️ Closed issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+2. 🎉 Merged PR [#11](https://github.com/Knerio/ReminderBot/pull/11) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+3. 🎉 Merged PR [#15](https://github.com/Knerio/ReminderBot/pull/15) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+4. 🎉 Merged PR [#19](https://github.com/Knerio/ReminderBot/pull/19) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+5. 🎉 Merged PR [#20](https://github.com/Knerio/ReminderBot/pull/20) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+6. 🎉 Merged PR [#14](https://github.com/Knerio/ReminderBot/pull/14) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+7. 🎉 Merged PR [#16](https://github.com/Knerio/ReminderBot/pull/16) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+8. 🎉 Merged PR [#17](https://github.com/Knerio/ReminderBot/pull/17) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+9. 🎉 Merged PR [#36](https://github.com/Knerio/SimpleChals/pull/36) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+10. 💪 Opened PR [#225](https://github.com/code0-tech/sagittarius/pull/225) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
