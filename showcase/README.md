@@ -28,16 +28,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#257](https://github.com/code0-tech/sagittarius/pull/257) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ❗️ Opened issue [#255](https://github.com/code0-tech/sagittarius/issues/255) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ❗️ Opened issue [#254](https://github.com/code0-tech/sagittarius/issues/254) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💬 Commented on [#249](https://github.com/code0-tech/sagittarius/pull/249#discussion_r1698811526) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#249](https://github.com/code0-tech/sagittarius/pull/249) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ✔️ Closed issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-7. 🎉 Merged PR [#11](https://github.com/Knerio/ReminderBot/pull/11) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-8. 🎉 Merged PR [#15](https://github.com/Knerio/ReminderBot/pull/15) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-9. 🎉 Merged PR [#19](https://github.com/Knerio/ReminderBot/pull/19) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
-10. 🎉 Merged PR [#20](https://github.com/Knerio/ReminderBot/pull/20) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+1. 💪 Opened PR [#259](https://github.com/code0-tech/sagittarius/pull/259) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💪 Opened PR [#258](https://github.com/code0-tech/sagittarius/pull/258) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#257](https://github.com/code0-tech/sagittarius/pull/257) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. ❗️ Opened issue [#255](https://github.com/code0-tech/sagittarius/issues/255) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ❗️ Opened issue [#254](https://github.com/code0-tech/sagittarius/issues/254) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#249](https://github.com/code0-tech/sagittarius/pull/249#discussion_r1698811526) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💪 Opened PR [#249](https://github.com/code0-tech/sagittarius/pull/249) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. ✔️ Closed issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+9. 🎉 Merged PR [#11](https://github.com/Knerio/ReminderBot/pull/11) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
+10. 🎉 Merged PR [#15](https://github.com/Knerio/ReminderBot/pull/15) in [Knerio/ReminderBot](https://github.com/Knerio/ReminderBot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
