@@ -3,7 +3,7 @@
 **Nice to see you here**
 
 I'm a *young* student. Im a passionate learner who's always willing to learn and work across
-programming. I'm currently into Frontend & Minecraft development. I mainly develop in Ruby and Java.
+programming. I'm currently into Backend & Minecraft development. I mainly develop in Ruby and Java.
 
 <br/>
 
