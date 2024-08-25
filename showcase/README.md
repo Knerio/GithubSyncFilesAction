@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-2. ✔️ Closed issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-3. 🎉 Merged PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-4. 💪 Opened PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-5. ❗️ Opened issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. 💪 Opened PR [#287](https://github.com/code0-tech/sagittarius/pull/287) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ⭐ Starred [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. 💬 Commented on [#268](https://github.com/code0-tech/sagittarius/pull/268#discussion_r1721042338) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 📔 Created new repository [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. ❗️ Opened issue [#269](https://github.com/code0-tech/sagittarius/issues/269) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. 💪 Opened PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. ✔️ Closed issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. 🎉 Merged PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. 💪 Opened PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. ❗️ Opened issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. 💪 Opened PR [#287](https://github.com/code0-tech/sagittarius/pull/287) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. ⭐ Starred [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. 💬 Commented on [#268](https://github.com/code0-tech/sagittarius/pull/268#discussion_r1721042338) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 📔 Created new repository [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
