@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#296](https://github.com/code0-tech/sagittarius/pull/296) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✌️ Released [Version 0.0.1](https://github.com/code0-tech/code0-identities/releases/tag/0.0.1) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-3. 🎉 Merged PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-4. 🔱 Forked [Knerio/wheel-of-fortune](https://github.com/Knerio/wheel-of-fortune) from [takuyakanbr/wheel-of-fortune](https://github.com/takuyakanbr/wheel-of-fortune)<br>
-5. ❗️ Opened issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. 💪 Opened PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. ✔️ Closed issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. 🎉 Merged PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. 💪 Opened PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. ❗️ Opened issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+1. 📔 Created new repository [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
+2. 💪 Opened PR [#296](https://github.com/code0-tech/sagittarius/pull/296) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✌️ Released [Version 0.0.1](https://github.com/code0-tech/code0-identities/releases/tag/0.0.1) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. 🎉 Merged PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. 🔱 Forked [Knerio/wheel-of-fortune](https://github.com/Knerio/wheel-of-fortune) from [takuyakanbr/wheel-of-fortune](https://github.com/takuyakanbr/wheel-of-fortune)<br>
+6. ❗️ Opened issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. 💪 Opened PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+8. ✔️ Closed issue [#3](https://github.com/code0-tech/code0-identities/issues/3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. 🎉 Merged PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+10. 💪 Opened PR [#4](https://github.com/code0-tech/code0-identities/pull/4) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
