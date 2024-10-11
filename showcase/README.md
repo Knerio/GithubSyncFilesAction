@@ -34,7 +34,6 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 4. 📔 Created new repository [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
 5. 💪 Opened PR [#296](https://github.com/code0-tech/sagittarius/pull/296) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 6. ✌️ Released [Version 0.0.1](https://github.com/code0-tech/code0-identities/releases/tag/0.0.1) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. 🎉 Merged PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
