@@ -17,8 +17,8 @@ dependencies {
     implementation("org.projectlombok:lombok:1.18.34")
     annotationProcessor("org.projectlombok:lombok:1.18.34")
 
-    implementation("org.jetbrains:annotations:24.1.0")
-    implementation("org.jetbrains:annotations:24.1.0")
+    implementation("org.jetbrains:annotations:26.0.1")
+    implementation("org.jetbrains:annotations:26.0.1")
 
     implementation("org.kohsuke:github-api:1.322")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1")
