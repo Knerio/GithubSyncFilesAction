@@ -28,12 +28,12 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Knerio/SodokuSolver](https://github.com/Knerio/SodokuSolver)<br>
-2. 🎉 Merged PR [#1](https://github.com/Knerio/dario-bot/pull/1) in [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
-3. 💬 Commented on [#296](https://github.com/code0-tech/sagittarius/pull/296#discussion_r1765661689) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💬 Commented on [#296](https://github.com/code0-tech/sagittarius/pull/296#discussion_r1765659967) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 📔 Created new repository [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
-6. 💪 Opened PR [#296](https://github.com/code0-tech/sagittarius/pull/296) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 🔱 Forked [Knerio/mcsrr-widget](undefined) from [cltWilly/mcsrr-widget](https://github.com/cltWilly/mcsrr-widget)<br>
+2. 📔 Created new repository [Knerio/SodokuSolver](https://github.com/Knerio/SodokuSolver)<br>
+3. 🎉 Merged PR [#1](https://github.com/Knerio/dario-bot/pull/1) in [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
+4. 💬 Commented on [#296](https://github.com/code0-tech/sagittarius/pull/296#discussion_r1765661689) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#296](https://github.com/code0-tech/sagittarius/pull/296#discussion_r1765659967) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 📔 Created new repository [Knerio/dario-bot](https://github.com/Knerio/dario-bot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
