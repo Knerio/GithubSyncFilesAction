@@ -3,7 +3,7 @@
 **Nice to see you here**
 
 I'm a *young* student. Im a passionate learner who's always willing to learn and work across
-programming. I'm currently into Backend & Minecraft development. I mainly develop in Ruby and Java.
+programming. I'm currently into Backend & Discord Bot development. I mainly develop in Ruby and Java.
 
 <br/>
 
@@ -18,7 +18,7 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 
  **Frameworks / Libraries / Others**
 
-<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/> <img src="https://img.shields.io/badge/-Ruby_On_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/> <img src="https://img.shields.io/badge/-Ruby_On_Rails-blue?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/-JDA-blue?style=for-the-badge&logo=JDA&logoColor=white"/>
 
 **Databases**
 
