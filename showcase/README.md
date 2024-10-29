@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#469](https://github.com/Rollczi/LiteCommands/issues/469) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-2. 🎉 Merged PR [#3](https://github.com/Knerio/en2do/pull/3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. 🎉 Merged PR [#5](https://github.com/Knerio/en2do/pull/5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. 🎉 Merged PR [#4](https://github.com/Knerio/en2do/pull/4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-5. 🎉 Merged PR [#1](https://github.com/Knerio/en2do/pull/1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-6. 🎉 Merged PR [#2](https://github.com/Knerio/en2do/pull/2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. 🔱 Forked [Knerio/en2do](undefined) from [Koboo/en2do](https://github.com/Koboo/en2do)<br>
-8. ✌️ Released [2.7.2](https://github.com/Knerio/JavaUtils/releases/tag/2.7.2) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-9. 📔 Created new repository [Knerio/Secret-Keys](https://github.com/Knerio/Secret-Keys)<br>
-10. 🔱 Forked [Knerio/mcsrr-widget](undefined) from [cltWilly/mcsrr-widget](https://github.com/cltWilly/mcsrr-widget)<br>
+1. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2442606679) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
+2. ❗️ Opened issue [#469](https://github.com/Rollczi/LiteCommands/issues/469) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
+3. 🎉 Merged PR [#3](https://github.com/Knerio/en2do/pull/3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. 🎉 Merged PR [#5](https://github.com/Knerio/en2do/pull/5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. 🎉 Merged PR [#4](https://github.com/Knerio/en2do/pull/4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. 🎉 Merged PR [#1](https://github.com/Knerio/en2do/pull/1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+7. 🎉 Merged PR [#2](https://github.com/Knerio/en2do/pull/2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+8. 🔱 Forked [Knerio/en2do](undefined) from [Koboo/en2do](https://github.com/Koboo/en2do)<br>
+9. ✌️ Released [2.7.2](https://github.com/Knerio/JavaUtils/releases/tag/2.7.2) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. 📔 Created new repository [Knerio/Secret-Keys](https://github.com/Knerio/Secret-Keys)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
