@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447765891) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-2. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447359080) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-3. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447343760) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-4. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2442606679) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-5. ❗️ Opened issue [#469](https://github.com/Rollczi/LiteCommands/issues/469) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-6. 🎉 Merged PR [#3](https://github.com/Knerio/en2do/pull/3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. 🎉 Merged PR [#5](https://github.com/Knerio/en2do/pull/5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-8. 🎉 Merged PR [#4](https://github.com/Knerio/en2do/pull/4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. 🎉 Merged PR [#1](https://github.com/Knerio/en2do/pull/1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-10. 🎉 Merged PR [#2](https://github.com/Knerio/en2do/pull/2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. 🎉 Merged PR [#47](https://github.com/Knerio/VaxBot/pull/47) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+2. 💪 Opened PR [#47](https://github.com/Knerio/VaxBot/pull/47) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+3. 🎉 Merged PR [#45](https://github.com/Knerio/VaxBot/pull/45) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+4. 🎉 Merged PR [#46](https://github.com/Knerio/VaxBot/pull/46) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+5. 🎉 Merged PR [#44](https://github.com/Knerio/VaxBot/pull/44) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. 💪 Opened PR [#44](https://github.com/Knerio/VaxBot/pull/44) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+7. 🎉 Merged PR [#43](https://github.com/Knerio/VaxBot/pull/43) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+8. 💪 Opened PR [#43](https://github.com/Knerio/VaxBot/pull/43) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+9. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447765891) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
+10. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447359080) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
