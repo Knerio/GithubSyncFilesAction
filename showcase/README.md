@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#54](https://github.com/Knerio/VaxBot/pull/54) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-2. 🎉 Merged PR [#52](https://github.com/Knerio/VaxBot/pull/52) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-3. ✔️ Closed issue [#55](https://github.com/Knerio/VaxBot/issues/55) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-4. 💬 Commented on [#55](https://github.com/Knerio/VaxBot/issues/55#issuecomment-2453085107) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-5. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
-6. ❗️ Opened issue [#55](https://github.com/Knerio/VaxBot/issues/55) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-7. 🎉 Merged PR [#51](https://github.com/Knerio/VaxBot/pull/51) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-8. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. ✌️ Released [1.0.0](https://github.com/Knerio/en2do/releases/tag/1.0.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-10. 👍 Approved [#330](https://github.com/code0-tech/sagittarius/pull/330#pullrequestreview-2408998976) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ⭐ Starred [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+2. 🎉 Merged PR [#54](https://github.com/Knerio/VaxBot/pull/54) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+3. 🎉 Merged PR [#52](https://github.com/Knerio/VaxBot/pull/52) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+4. ✔️ Closed issue [#55](https://github.com/Knerio/VaxBot/issues/55) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+5. 💬 Commented on [#55](https://github.com/Knerio/VaxBot/issues/55#issuecomment-2453085107) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
+7. ❗️ Opened issue [#55](https://github.com/Knerio/VaxBot/issues/55) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+8. 🎉 Merged PR [#51](https://github.com/Knerio/VaxBot/pull/51) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+9. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. ✌️ Released [1.0.0](https://github.com/Knerio/en2do/releases/tag/1.0.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
