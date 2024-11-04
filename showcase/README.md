@@ -25,7 +25,7 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQl&logoColor=white"/>
 
-**Recent Activiy**
+**Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
