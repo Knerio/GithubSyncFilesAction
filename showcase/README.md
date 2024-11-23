@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
-2. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ✌️ Released [1.0.0](https://github.com/Knerio/en2do/releases/tag/1.0.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. 👍 Approved [#330](https://github.com/code0-tech/sagittarius/pull/330#pullrequestreview-2408998976) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447765891) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-6. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447359080) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-7. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2447343760) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-8. 💬 Commented on [#469](https://github.com/Rollczi/LiteCommands/issues/469#issuecomment-2442606679) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-9. ❗️ Opened issue [#469](https://github.com/Rollczi/LiteCommands/issues/469) in [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands)<br>
-10. 🎉 Merged PR [#3](https://github.com/Knerio/en2do/pull/3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. 💪 Opened PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. ❗️ Opened issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. ❗️ Opened issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. 💪 Opened PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. ❗️ Opened issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. ❗️ Opened issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
+8. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+9. ✌️ Released [1.0.0](https://github.com/Knerio/en2do/releases/tag/1.0.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. 👍 Approved [#330](https://github.com/code0-tech/sagittarius/pull/330#pullrequestreview-2408998976) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
