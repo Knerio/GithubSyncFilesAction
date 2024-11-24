@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-2. ✔️ Closed issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-3. 💪 Opened PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-4. 💪 Opened PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-5. ❗️ Opened issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. ❗️ Opened issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. 💪 Opened PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. ❗️ Opened issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. ❗️ Opened issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. 📔 Created new repository [Knerio/Commandify](https://github.com/Knerio/Commandify)<br>
+1. 💬 Commented on [#12](https://github.com/code0-tech/code0-identities/pull/12#discussion_r1855461631) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. 👍 Approved [#15](https://github.com/code0-tech/code0-identities/pull/15#pullrequestreview-2456723392) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. 💪 Opened PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. ✔️ Closed issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. 💪 Opened PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. 💪 Opened PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. ❗️ Opened issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+8. ❗️ Opened issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. 💪 Opened PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+10. ❗️ Opened issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
