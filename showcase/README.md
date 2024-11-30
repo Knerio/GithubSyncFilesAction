@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.0](https://github.com/Knerio/en2do/releases/tag/1.1.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-2. ✌️ Released [1.0.9](https://github.com/Knerio/en2do/releases/tag/1.0.9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ✌️ Released [1.0.5](https://github.com/Knerio/en2do/releases/tag/1.0.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ✌️ Released [1.0.4](https://github.com/Knerio/en2do/releases/tag/1.0.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-5. ✌️ Released [1.0.3](https://github.com/Knerio/en2do/releases/tag/1.0.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-6. ✌️ Released [1.0.2](https://github.com/Knerio/en2do/releases/tag/1.0.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-8. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. 💬 Commented on [#12](https://github.com/code0-tech/code0-identities/pull/12#discussion_r1855461631) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. 👍 Approved [#15](https://github.com/code0-tech/code0-identities/pull/15#pullrequestreview-2456723392) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+1. 🎉 Merged PR [#7](https://github.com/Knerio/en2do/pull/7) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+2. 🎉 Merged PR [#10](https://github.com/Knerio/en2do/pull/10) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+3. ✌️ Released [1.1.0](https://github.com/Knerio/en2do/releases/tag/1.1.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. ✌️ Released [1.0.9](https://github.com/Knerio/en2do/releases/tag/1.0.9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. ✌️ Released [1.0.5](https://github.com/Knerio/en2do/releases/tag/1.0.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. ✌️ Released [1.0.4](https://github.com/Knerio/en2do/releases/tag/1.0.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+7. ✌️ Released [1.0.3](https://github.com/Knerio/en2do/releases/tag/1.0.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+8. ✌️ Released [1.0.2](https://github.com/Knerio/en2do/releases/tag/1.0.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+9. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
