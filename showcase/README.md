@@ -28,45 +28,45 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-2. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. 💬 Commented on [#12](https://github.com/code0-tech/code0-identities/pull/12#discussion_r1855461631) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-4. 👍 Approved [#15](https://github.com/code0-tech/code0-identities/pull/15#pullrequestreview-2456723392) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-5. 💪 Opened PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. ✔️ Closed issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. 💪 Opened PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. 💪 Opened PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. ❗️ Opened issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. ❗️ Opened issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+1. ✌️ Released [1.1.0](https://github.com/Knerio/en2do/releases/tag/1.1.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+2. ✌️ Released [1.0.9](https://github.com/Knerio/en2do/releases/tag/1.0.9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+3. ✌️ Released [1.0.5](https://github.com/Knerio/en2do/releases/tag/1.0.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. ✌️ Released [1.0.4](https://github.com/Knerio/en2do/releases/tag/1.0.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. ✌️ Released [1.0.3](https://github.com/Knerio/en2do/releases/tag/1.0.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. ✌️ Released [1.0.2](https://github.com/Knerio/en2do/releases/tag/1.0.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+7. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ✌️ Released [1.0.1](https://github.com/Knerio/en2do/releases/tag/1.0.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+9. 💬 Commented on [#12](https://github.com/code0-tech/code0-identities/pull/12#discussion_r1855461631) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+10. 👍 Approved [#15](https://github.com/code0-tech/code0-identities/pull/15#pullrequestreview-2456723392) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-619.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.7%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                642 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-🌆 Daytime                3910 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌃 Evening                6633 commits        ██████████████░░░░░░░░░░░   54.03 % 
-🌙 Night                  1092 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+🌞 Morning                674 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌆 Daytime                4039 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌃 Evening                6801 commits        █████████████░░░░░░░░░░░░   53.93 % 
+🌙 Night                  1097 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1603 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Tuesday                  1647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Wednesday                1513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 1590 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   1825 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Saturday                 2218 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Sunday                   1881 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Monday                   1663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Tuesday                  1686 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                1534 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Thursday                 1639 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Friday                   1861 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 2280 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Sunday                   1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 
 
@@ -76,24 +76,24 @@ Sunday                   1881 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     4 hrs 24 mins       █████████████░░░░░░░░░░░░   53.47 % 
-Ruby                     2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-RBS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Java                     6 hrs 54 mins       ████████████████░░░░░░░░░   62.65 % 
+Ruby                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+RBS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Kotlin                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 15 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code0-identities         3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.86 % 
-varilx-survival          3 hrs               █████████░░░░░░░░░░░░░░░░   36.53 % 
-varilx-skyblock          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-VarilxLobby              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-sagittarius              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+code0-identities         3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.61 % 
+varilx-survival          3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+varilx-skyblock          2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+VaxBot                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+VarilxLobby              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,6 +109,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 01:29:28 UTC
+ Last Updated on 30/11/2024 01:26:25 UTC
 <!--END_SECTION:waka-->
 
