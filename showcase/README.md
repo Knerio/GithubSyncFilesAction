@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.2.0](https://github.com/Knerio/en2do/releases/tag/1.2.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-2. 🎉 Merged PR [#7](https://github.com/Knerio/en2do/pull/7) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. 🎉 Merged PR [#10](https://github.com/Knerio/en2do/pull/10) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ✌️ Released [1.1.0](https://github.com/Knerio/en2do/releases/tag/1.1.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-5. ✌️ Released [1.0.9](https://github.com/Knerio/en2do/releases/tag/1.0.9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-6. ✌️ Released [1.0.5](https://github.com/Knerio/en2do/releases/tag/1.0.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. ✌️ Released [1.0.4](https://github.com/Knerio/en2do/releases/tag/1.0.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-8. ✌️ Released [1.0.3](https://github.com/Knerio/en2do/releases/tag/1.0.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. ✌️ Released [1.0.2](https://github.com/Knerio/en2do/releases/tag/1.0.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-10. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ✌️ Released [1.2.2](https://github.com/Knerio/en2do/releases/tag/1.2.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+2. ✌️ Released [1.2.1](https://github.com/Knerio/en2do/releases/tag/1.2.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+3. ✌️ Released [1.2.1](https://github.com/Knerio/en2do/releases/tag/1.2.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. 🎉 Merged PR [#11](https://github.com/Knerio/en2do/pull/11) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. 🎉 Merged PR [#8](https://github.com/Knerio/en2do/pull/8) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. 🎉 Merged PR [#9](https://github.com/Knerio/en2do/pull/9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+7. 🎉 Merged PR [#13](https://github.com/Knerio/en2do/pull/13) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+8. 🎉 Merged PR [#12](https://github.com/Knerio/en2do/pull/12) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+9. 💪 Opened PR [#12](https://github.com/Knerio/en2do/pull/12) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. ✌️ Released [1.2.0](https://github.com/Knerio/en2do/releases/tag/1.2.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
