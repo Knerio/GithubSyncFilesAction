@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Knerio/StatusPlugin/pull/1) in [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
-2. 📔 Created new repository [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
-3. ✌️ Released [1.3.1](https://github.com/Knerio/en2do/releases/tag/1.3.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. 🎉 Merged PR [#49](https://github.com/Knerio/JavaUtils/pull/49) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ✔️ Closed issue [#14](https://github.com/Knerio/en2do/issues/14) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-6. ✔️ Closed issue [#14](https://github.com/Knerio/en2do/issues/14) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. ❗️ Opened issue [#14](https://github.com/Knerio/en2do/issues/14) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-8. ✌️ Released [1.3.0](https://github.com/Knerio/en2do/releases/tag/1.3.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. ✌️ Released [1.2.9](https://github.com/Knerio/en2do/releases/tag/1.2.9) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-10. ✌️ Released [1.2.8](https://github.com/Knerio/en2do/releases/tag/1.2.8) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. 🎉 Merged PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. ✔️ Closed issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. ✔️ Closed issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. 🎉 Merged PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. 🎉 Merged PR [#1](https://github.com/Knerio/StatusPlugin/pull/1) in [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
+6. 📔 Created new repository [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
+7. ✌️ Released [1.3.1](https://github.com/Knerio/en2do/releases/tag/1.3.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+8. 🎉 Merged PR [#49](https://github.com/Knerio/JavaUtils/pull/49) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+9. ✔️ Closed issue [#14](https://github.com/Knerio/en2do/issues/14) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. ✔️ Closed issue [#14](https://github.com/Knerio/en2do/issues/14) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
