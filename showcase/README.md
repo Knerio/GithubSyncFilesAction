@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Knerio/BetterAttackDiscordBot](https://github.com/Knerio/BetterAttackDiscordBot)<br>
-2. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
+1. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
+2. 📔 Created new repository [Knerio/BetterAttackDiscordBot](https://github.com/Knerio/BetterAttackDiscordBot)<br>
 3. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
-4. 🎉 Merged PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-5. ✔️ Closed issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. ✔️ Closed issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. 🎉 Merged PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. 🎉 Merged PR [#1](https://github.com/Knerio/StatusPlugin/pull/1) in [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
-9. 📔 Created new repository [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
-10. ✌️ Released [1.3.1](https://github.com/Knerio/en2do/releases/tag/1.3.1) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
+5. 🎉 Merged PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. ✔️ Closed issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. ✔️ Closed issue [#10](https://github.com/code0-tech/code0-identities/issues/10) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+8. 🎉 Merged PR [#9](https://github.com/code0-tech/code0-identities/pull/9) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. 🎉 Merged PR [#1](https://github.com/Knerio/StatusPlugin/pull/1) in [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
+10. 📔 Created new repository [Knerio/StatusPlugin](https://github.com/Knerio/StatusPlugin)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
