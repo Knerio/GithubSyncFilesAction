@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-2. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-3. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-4. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-5. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
-6. 📔 Created new repository [Knerio/BetterAttackDiscordBot](https://github.com/Knerio/BetterAttackDiscordBot)<br>
-7. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
+1. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+5. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
+7. 📔 Created new repository [Knerio/BetterAttackDiscordBot](https://github.com/Knerio/BetterAttackDiscordBot)<br>
 8. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
-9. 🎉 Merged PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. ✔️ Closed issue [#7](https://github.com/code0-tech/code0-identities/issues/7) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. ✌️ Released [0.0.0](https://github.com/Knerio/JsonLibrary/releases/tag/0.0.0) in [Knerio/JsonLibrary](https://github.com/Knerio/JsonLibrary)<br>
+10. 🎉 Merged PR [#13](https://github.com/code0-tech/code0-identities/pull/13) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
