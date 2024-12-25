@@ -28,22 +28,22 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. ✌️ Released [1.3.4](https://github.com/Knerio/en2do/releases/tag/1.3.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 2. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-6. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
-10. 📔 Created new repository [Knerio/BetterAttackDiscordBot](https://github.com/Knerio/BetterAttackDiscordBot)<br>
+3. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+7. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+8. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+10. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,25 +76,25 @@ Sunday                   2441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    17 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.85 % 
-Java                     17 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.81 % 
-Kotlin                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Properties               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Java                     20 hrs 8 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+Other                    18 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
+Kotlin                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+YAML                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 53 mins      █████████████░░░░░░░░░░░░   51.91 % 
-IntelliJ IDEA            17 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.09 % 
+IntelliJ IDEA            23 hrs 8 mins       ██████████████░░░░░░░░░░░   54.34 % 
+Chrome                   19 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
 
 🐱‍💻 Projects: 
-varilx-survival          13 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.22 % 
-VaxBot                   5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-SearchEvent              5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-varilx-core              3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-vax-spigot               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+varilx-survival          15 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.08 % 
+SearchEvent              5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+varilx-core              4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+vax-spigot               3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+VaxBot                   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
-Windows                  36 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,6 +110,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 01:23:41 UTC
+ Last Updated on 25/12/2024 01:22:15 UTC
 <!--END_SECTION:waka-->
 
