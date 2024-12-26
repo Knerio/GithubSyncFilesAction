@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.4](https://github.com/Knerio/en2do/releases/tag/1.3.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-2. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. ✌️ Released [1.3.5](https://github.com/Knerio/en2do/releases/tag/1.3.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+2. ✌️ Released [1.3.4](https://github.com/Knerio/en2do/releases/tag/1.3.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 3. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-5. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-7. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-8. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. 📔 Created new repository [Knerio/Weblate](https://github.com/Knerio/Weblate)<br>
+4. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+5. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+8. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+9. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+10. 🎉 Merged PR [#12](https://github.com/code0-tech/code0-identities/pull/12) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
