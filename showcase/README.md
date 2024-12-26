@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.6](https://github.com/Knerio/en2do/releases/tag/1.3.6) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-2. ✌️ Released [1.3.5](https://github.com/Knerio/en2do/releases/tag/1.3.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ✌️ Released [1.3.4](https://github.com/Knerio/en2do/releases/tag/1.3.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-5. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-6. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-7. ❗️ Opened issue [#349](https://github.com/code0-tech/sagittarius/issues/349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ✔️ Closed issue [#8](https://github.com/code0-tech/code0-identities/issues/8) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. 🎉 Merged PR [#14](https://github.com/code0-tech/code0-identities/pull/14) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-10. ✔️ Closed issue [#11](https://github.com/code0-tech/code0-identities/issues/11) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+1. 💪 Opened PR [#19](https://github.com/Knerio/en2do/pull/19) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+2. 💬 Commented on [#13](https://github.com/Koboo/en2do/pull/13#issuecomment-2562844046) in [Koboo/en2do](https://github.com/Koboo/en2do)<br>
+3. ❌ Closed PR [#13](https://github.com/Koboo/en2do/pull/13) in [Koboo/en2do](https://github.com/Koboo/en2do)<br>
+4. 💪 Opened PR [#13](https://github.com/Koboo/en2do/pull/13) in [Koboo/en2do](https://github.com/Koboo/en2do)<br>
+5. ✌️ Released [1.3.6](https://github.com/Knerio/en2do/releases/tag/1.3.6) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. ✌️ Released [1.3.5](https://github.com/Knerio/en2do/releases/tag/1.3.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+7. ✌️ Released [1.3.4](https://github.com/Knerio/en2do/releases/tag/1.3.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+8. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+9. ✌️ Released [1.3.3](https://github.com/Knerio/en2do/releases/tag/1.3.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. ✌️ Released [1.3.2](https://github.com/Knerio/en2do/releases/tag/1.3.2) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
