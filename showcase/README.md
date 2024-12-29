@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Varilx-Developement/BaseAPI](https://github.com/Varilx-Developement/BaseAPI)<br>
-2. 🔴 Requested changes in [#236](https://github.com/code0-tech/pictor/pull/236#pullrequestreview-2524321745) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-3. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674482) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-4. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674447) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674459) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-6. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674386) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-7. 🎉 Merged PR [#21](https://github.com/Knerio/en2do/pull/21) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-8. ✌️ Released [1.4.0](https://github.com/Knerio/en2do/releases/tag/1.4.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-9. ✌️ Released [1.4.0](https://github.com/Knerio/en2do/releases/tag/1.4.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-10. 🎉 Merged PR [#20](https://github.com/Knerio/en2do/pull/20) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. ✌️ Released [0.0.1](https://github.com/Varilx-Developement/BaseAPI/releases/tag/0.0.1) in [Varilx-Developement/BaseAPI](https://github.com/Varilx-Developement/BaseAPI)<br>
+2. ✌️ Released [0.0.0](https://github.com/Varilx-Developement/BaseAPI/releases/tag/0.0.0) in [Varilx-Developement/BaseAPI](https://github.com/Varilx-Developement/BaseAPI)<br>
+3. 📔 Created new repository [Varilx-Developement/BaseAPI](https://github.com/Varilx-Developement/BaseAPI)<br>
+4. 🔴 Requested changes in [#236](https://github.com/code0-tech/pictor/pull/236#pullrequestreview-2524321745) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+5. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674482) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+6. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674447) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+7. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674459) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+8. 💬 Commented on [#236](https://github.com/code0-tech/pictor/pull/236#discussion_r1898674386) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+9. 🎉 Merged PR [#21](https://github.com/Knerio/en2do/pull/21) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+10. ✌️ Released [1.4.0](https://github.com/Knerio/en2do/releases/tag/1.4.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
