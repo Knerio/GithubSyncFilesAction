@@ -28,45 +28,45 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.0.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-2. 🎉 Merged PR [#1](https://github.com/Varilx-Development/VDiscordIntegration/pull/1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-3. 💪 Opened PR [#1](https://github.com/Varilx-Development/VDiscordIntegration/pull/1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-4. ✌️ Released [0.3.7](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.7) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-5. 🎉 Merged PR [#2](https://github.com/Varilx-Development/BaseAPI/pull/2) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-6. ✌️ Released [0.3.6](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.6) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-7. ✌️ Released [0.3.4](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.4) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-8. ✌️ Released [0.3.3](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.3) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-9. ✌️ Released [0.3.2](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.2) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-10. 🎉 Merged PR [#1](https://github.com/Varilx-Development/BaseAPI/pull/1) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+1. ✌️ Released [0.0.0](https://github.com/Varilx-Development/VSit/releases/tag/0.0.0) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+2. 📔 Created new repository [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+3. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.0.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+4. 🎉 Merged PR [#1](https://github.com/Varilx-Development/VDiscordIntegration/pull/1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+5. 💪 Opened PR [#1](https://github.com/Varilx-Development/VDiscordIntegration/pull/1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+6. ✌️ Released [0.3.7](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.7) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+7. 🎉 Merged PR [#2](https://github.com/Varilx-Development/BaseAPI/pull/2) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+8. ✌️ Released [0.3.6](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.6) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+9. ✌️ Released [0.3.4](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.4) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+10. ✌️ Released [0.3.3](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.3.3) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-796.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-801.1%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                858 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                4940 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌃 Evening                8292 commits        ██████████████░░░░░░░░░░░   54.33 % 
-🌙 Night                  1172 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+🌞 Morning                858 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                4954 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 Evening                8303 commits        ██████████████░░░░░░░░░░░   54.29 % 
+🌙 Night                  1180 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1978 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  1994 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                1892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 2163 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   2080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 2654 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Sunday                   2501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Monday                   2011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  1994 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                1892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Thursday                 2163 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Friday                   2080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 2654 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Sunday                   2501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 ```
 
 
@@ -76,40 +76,40 @@ Sunday                   2501 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    25 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.98 % 
-Java                     22 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   35.87 % 
-Kotlin                   4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Groovy                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    25 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
+Java                     23 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   37.97 % 
+Kotlin                   4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+YAML                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Groovy                   2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 31 mins      █████████████░░░░░░░░░░░░   50.95 % 
-IntelliJ IDEA            30 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+IntelliJ IDEA            32 hrs 30 mins      █████████████░░░░░░░░░░░░   51.49 % 
+Chrome                   30 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.51 % 
 
 🐱‍💻 Projects: 
-varilx-survival          16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-varilx-core              7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-vax-spigot               6 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Purpur-Server            6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Purpur-API               4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+varilx-survival          14 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+varilx-core              7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+vax-spigot               5 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Purpur-Server            5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+base                     4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Windows                  61 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  63 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     28 repos            ███████████████████░░░░░░   77.78 % 
-Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     31 repos            ████████████████████░░░░░   79.49 % 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 30/12/2024 01:26:41 UTC
+ Last Updated on 31/12/2024 01:22:46 UTC
 <!--END_SECTION:waka-->
 
