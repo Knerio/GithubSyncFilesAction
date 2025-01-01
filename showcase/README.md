@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VSit/releases/tag/1.0.0) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-2. ✌️ Released [1.0.1](https://github.com/Varilx-Development/VBank/releases/tag/1.0.1) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
-3. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
-4. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
-5. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
-6. ✌️ Released [1.3.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.3.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-7. ✌️ Released [0.4.0](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.4.0) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-8. ✌️ Released [1.2.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.2.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-9. 🎉 Merged PR [#2](https://github.com/Varilx-Development/VDiscordIntegration/pull/2) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-10. 💪 Opened PR [#2](https://github.com/Varilx-Development/VDiscordIntegration/pull/2) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+1. 💪 Opened PR [#1](https://github.com/Varilx-Development/VBank/pull/1) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
+2. 💪 Opened PR [#1](https://github.com/Varilx-Development/VEconomy/pull/1) in [Varilx-Development/VEconomy](https://github.com/Varilx-Development/VEconomy)<br>
+3. 🎉 Merged PR [#3](https://github.com/Varilx-Development/VDiscordIntegration/pull/3) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+4. 💪 Opened PR [#3](https://github.com/Varilx-Development/VDiscordIntegration/pull/3) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+5. ✌️ Released [1.0.1](https://github.com/Varilx-Development/VSit/releases/tag/1.0.1) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+6. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VSit/releases/tag/1.0.0) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+7. ✌️ Released [1.0.1](https://github.com/Varilx-Development/VBank/releases/tag/1.0.1) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
+8. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
+9. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
+10. ✌️ Released [1.0.0](https://github.com/Varilx-Development/VBank/releases/tag/1.0.0) in [Varilx-Development/VBank](https://github.com/Varilx-Development/VBank)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
