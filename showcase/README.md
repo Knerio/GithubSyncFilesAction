@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.9.0](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.9.0) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-2. 💪 Opened PR [#19](https://github.com/Varilx-Development/BaseAPI/pull/19) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-3. 🎉 Merged PR [#12](https://github.com/Varilx-Development/VDiscordIntegration/pull/12) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-4. 👍 Approved [#352](https://github.com/code0-tech/sagittarius/pull/352#pullrequestreview-2528033933) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#12](https://github.com/Varilx-Development/VDiscordIntegration/pull/12#pullrequestreview-2528032606) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-6. ❌ Closed PR [#11](https://github.com/Varilx-Development/VDiscordIntegration/pull/11) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-7. 🎉 Merged PR [#16](https://github.com/Varilx-Development/BaseAPI/pull/16) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-8. 👍 Approved [#16](https://github.com/Varilx-Development/BaseAPI/pull/16#pullrequestreview-2528018790) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-9. ✌️ Released [1.0.2](https://github.com/Varilx-Development/BaseAPI/releases/tag/1.0.2) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-10. 🎉 Merged PR [#17](https://github.com/Varilx-Development/BaseAPI/pull/17) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+1. ✌️ Released [0.9.1](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.9.1) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+2. 🎉 Merged PR [#22](https://github.com/Varilx-Development/BaseAPI/pull/22) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+3. 💪 Opened PR [#22](https://github.com/Varilx-Development/BaseAPI/pull/22) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+4. ✌️ Released [0.9.0](https://github.com/Varilx-Development/BaseAPI/releases/tag/0.9.0) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+5. 💪 Opened PR [#19](https://github.com/Varilx-Development/BaseAPI/pull/19) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+6. 🎉 Merged PR [#12](https://github.com/Varilx-Development/VDiscordIntegration/pull/12) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+7. 👍 Approved [#352](https://github.com/code0-tech/sagittarius/pull/352#pullrequestreview-2528033933) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 👍 Approved [#12](https://github.com/Varilx-Development/VDiscordIntegration/pull/12#pullrequestreview-2528032606) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+9. ❌ Closed PR [#11](https://github.com/Varilx-Development/VDiscordIntegration/pull/11) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+10. 🎉 Merged PR [#16](https://github.com/Varilx-Development/BaseAPI/pull/16) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
