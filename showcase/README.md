@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Knerio/Purpur](https://github.com/Knerio/Purpur) from [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur)<br>
-2. ✌️ Released [1.4.1](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.4.1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-3. ✌️ Released [1.4.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.4.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-4. 🎉 Merged PR [#13](https://github.com/Varilx-Development/VDiscordIntegration/pull/13) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-5. 👍 Approved [#13](https://github.com/Varilx-Development/VDiscordIntegration/pull/13#pullrequestreview-2530934950) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
-6. 👍 Approved [#10](https://github.com/Varilx-Development/VItemSign/pull/10#pullrequestreview-2530910504) in [Varilx-Development/VItemSign](https://github.com/Varilx-Development/VItemSign)<br>
-7. ✌️ Released [1.1.0](https://github.com/Varilx-Development/BaseAPI/releases/tag/1.1.0) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-8. 🎉 Merged PR [#19](https://github.com/Varilx-Development/BaseAPI/pull/19) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-9. 🎉 Merged PR [#21](https://github.com/Varilx-Development/BaseAPI/pull/21) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-10. 👍 Approved [#21](https://github.com/Varilx-Development/BaseAPI/pull/21#pullrequestreview-2530873990) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+1. 🎉 Merged PR [#7](https://github.com/Varilx-Development/VSit/pull/7) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+2. 🔱 Forked [Knerio/Purpur](https://github.com/Knerio/Purpur) from [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur)<br>
+3. ✌️ Released [1.4.1](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.4.1) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+4. ✌️ Released [1.4.0](https://github.com/Varilx-Development/VDiscordIntegration/releases/tag/1.4.0) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+5. 🎉 Merged PR [#13](https://github.com/Varilx-Development/VDiscordIntegration/pull/13) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+6. 👍 Approved [#13](https://github.com/Varilx-Development/VDiscordIntegration/pull/13#pullrequestreview-2530934950) in [Varilx-Development/VDiscordIntegration](https://github.com/Varilx-Development/VDiscordIntegration)<br>
+7. 👍 Approved [#10](https://github.com/Varilx-Development/VItemSign/pull/10#pullrequestreview-2530910504) in [Varilx-Development/VItemSign](https://github.com/Varilx-Development/VItemSign)<br>
+8. ✌️ Released [1.1.0](https://github.com/Varilx-Development/BaseAPI/releases/tag/1.1.0) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+9. 🎉 Merged PR [#19](https://github.com/Varilx-Development/BaseAPI/pull/19) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+10. 🎉 Merged PR [#21](https://github.com/Varilx-Development/BaseAPI/pull/21) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
