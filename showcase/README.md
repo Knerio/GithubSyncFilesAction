@@ -28,44 +28,44 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.2](https://github.com/Knerio/MultiDB/releases/tag/0.0.2) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-2. ✌️ Released [0.0.1](https://github.com/Knerio/MultiDB/releases/tag/0.0.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-3. 🎉 Merged PR [#7](https://github.com/Knerio/MultiDB/pull/7) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-4. 💪 Opened PR [#7](https://github.com/Knerio/MultiDB/pull/7) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. ✌️ Released [0.0.0](https://github.com/Knerio/MultiDB/releases/tag/0.0.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. 🎉 Merged PR [#6](https://github.com/Knerio/MultiDB/pull/6) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-7. 💪 Opened PR [#6](https://github.com/Knerio/MultiDB/pull/6) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-8. 🎉 Merged PR [#4](https://github.com/Knerio/MultiDB/pull/4) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#3](https://github.com/Knerio/MultiDB/pull/3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-10. 👍 Approved [#3](https://github.com/Knerio/MultiDB/pull/3#pullrequestreview-2543828511) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ✌️ Released [0.1.0](https://github.com/Knerio/MultiDB/releases/tag/0.1.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+2. 🎉 Merged PR [#9](https://github.com/Knerio/MultiDB/pull/9) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+3. 🎉 Merged PR [#8](https://github.com/Knerio/MultiDB/pull/8) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+4. 🎉 Merged PR [#10](https://github.com/Knerio/MultiDB/pull/10) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+5. 💪 Opened PR [#10](https://github.com/Knerio/MultiDB/pull/10) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+6. ✌️ Released [0.0.2](https://github.com/Knerio/MultiDB/releases/tag/0.0.2) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+7. ✌️ Released [0.0.1](https://github.com/Knerio/MultiDB/releases/tag/0.0.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+8. 🎉 Merged PR [#7](https://github.com/Knerio/MultiDB/pull/7) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+9. 💪 Opened PR [#7](https://github.com/Knerio/MultiDB/pull/7) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+10. ✌️ Released [0.0.0](https://github.com/Knerio/MultiDB/releases/tag/0.0.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-835%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-698.1%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-🌆 Daytime                4919 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌃 Evening                7002 commits        █████████████░░░░░░░░░░░░   50.31 % 
-🌙 Night                  1139 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+🌆 Daytime                4924 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌃 Evening                6991 commits        █████████████░░░░░░░░░░░░   50.25 % 
+🌙 Night                  1139 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  1776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Monday                   2045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Tuesday                  1776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Wednesday                1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 Thursday                 1919 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Friday                   1899 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 2371 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Friday                   1888 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 2376 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Sunday                   2168 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 ```
 
@@ -76,25 +76,25 @@ Sunday                   2168 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     19 hrs 11 mins      ██████████████░░░░░░░░░░░   57.42 % 
-Other                    10 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Kotlin                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Java                     19 hrs 15 mins      ███████████████░░░░░░░░░░   59.52 % 
+Other                    10 hrs              ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Kotlin                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 14 mins      ███████████████░░░░░░░░░░   60.58 % 
-Chrome                   13 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   39.42 % 
+IntelliJ IDEA            20 hrs 19 mins      ████████████████░░░░░░░░░   62.79 % 
+Chrome                   12 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
 
 🐱‍💻 Projects: 
-MultiDB                  10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.62 % 
-VPunishment              10 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-megalodon                2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-en2do                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-varilx-survival          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+MultiDB                  12 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.88 % 
+VPunishment              8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+megalodon                1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+en2do                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+varilx-survival          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Windows                  33 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,6 +110,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 01:24:16 UTC
+ Last Updated on 12/01/2025 01:31:10 UTC
 <!--END_SECTION:waka-->
 
