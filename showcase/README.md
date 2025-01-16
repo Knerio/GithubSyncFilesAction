@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#35](https://github.com/code0-tech/tucana/pull/35) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 📔 Created new repository [Knerio/test-fork-of-fork](https://github.com/Knerio/test-fork-of-fork)<br>
-3. 💬 Commented on [#355](https://github.com/code0-tech/sagittarius/issues/355#issuecomment-2586734515) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#362](https://github.com/code0-tech/sagittarius/pull/362) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#14](https://github.com/Varilx-Development/VItemSign/pull/14#pullrequestreview-2545462263) in [Varilx-Development/VItemSign](https://github.com/Varilx-Development/VItemSign)<br>
-6. ✌️ Released [0.1.0](https://github.com/Knerio/MultiDB/releases/tag/0.1.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-7. 🎉 Merged PR [#9](https://github.com/Knerio/MultiDB/pull/9) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-8. 🎉 Merged PR [#8](https://github.com/Knerio/MultiDB/pull/8) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#10](https://github.com/Knerio/MultiDB/pull/10) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-10. 💪 Opened PR [#10](https://github.com/Knerio/MultiDB/pull/10) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ❗️ Opened issue [#36](https://github.com/code0-tech/tucana/issues/36) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#35](https://github.com/code0-tech/tucana/pull/35) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 📔 Created new repository [Knerio/test-fork-of-fork](https://github.com/Knerio/test-fork-of-fork)<br>
+4. 💬 Commented on [#355](https://github.com/code0-tech/sagittarius/issues/355#issuecomment-2586734515) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💪 Opened PR [#362](https://github.com/code0-tech/sagittarius/pull/362) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 👍 Approved [#14](https://github.com/Varilx-Development/VItemSign/pull/14#pullrequestreview-2545462263) in [Varilx-Development/VItemSign](https://github.com/Varilx-Development/VItemSign)<br>
+7. ✌️ Released [0.1.0](https://github.com/Knerio/MultiDB/releases/tag/0.1.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+8. 🎉 Merged PR [#9](https://github.com/Knerio/MultiDB/pull/9) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+9. 🎉 Merged PR [#8](https://github.com/Knerio/MultiDB/pull/8) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+10. 🎉 Merged PR [#10](https://github.com/Knerio/MultiDB/pull/10) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
