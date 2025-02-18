@@ -37,7 +37,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 7. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2636765166) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 8. 💪 Opened PR [#373](https://github.com/code0-tech/sagittarius/pull/373) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 9. 💬 Commented on [#355](https://github.com/code0-tech/sagittarius/issues/355#issuecomment-2636583184) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ✌️ Released [1.4.3](https://github.com/Knerio/en2do/releases/tag/1.4.3) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
