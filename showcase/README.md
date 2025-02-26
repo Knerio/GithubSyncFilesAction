@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-2. ✌️ Released [1.4.4](https://github.com/Knerio/en2do/releases/tag/1.4.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. 📔 Created new repository [Knerio/Tetris](https://github.com/Knerio/Tetris)<br>
+2. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+3. ✌️ Released [1.4.4](https://github.com/Knerio/en2do/releases/tag/1.4.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 4. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2642731831) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💪 Opened PR [#376](https://github.com/code0-tech/sagittarius/pull/376) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. 💪 Opened PR [#375](https://github.com/code0-tech/sagittarius/pull/375) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. 👍 Approved [#372](https://github.com/code0-tech/sagittarius/pull/372#pullrequestreview-2595783480) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2636765166) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. 💪 Opened PR [#373](https://github.com/code0-tech/sagittarius/pull/373) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+6. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2642731831) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💪 Opened PR [#376](https://github.com/code0-tech/sagittarius/pull/376) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💪 Opened PR [#375](https://github.com/code0-tech/sagittarius/pull/375) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 👍 Approved [#372](https://github.com/code0-tech/sagittarius/pull/372#pullrequestreview-2595783480) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2636765166) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
