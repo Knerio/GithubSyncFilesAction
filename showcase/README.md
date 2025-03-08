@@ -35,7 +35,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 5. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 6. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2642731831) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 7. 💪 Opened PR [#376](https://github.com/code0-tech/sagittarius/pull/376) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. 💪 Opened PR [#375](https://github.com/code0-tech/sagittarius/pull/375) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
