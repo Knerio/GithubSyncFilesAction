@@ -31,9 +31,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 1. 📔 Created new repository [Knerio/Tetris](https://github.com/Knerio/Tetris)<br>
 2. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 3. ✌️ Released [1.4.4](https://github.com/Knerio/en2do/releases/tag/1.4.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-4. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. ⭐ Starred [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. 💬 Commented on [#356](https://github.com/code0-tech/sagittarius/issues/356#issuecomment-2642731831) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
