@@ -28,9 +28,12 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Knerio/Tetris](https://github.com/Knerio/Tetris)<br>
-2. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
-3. ✌️ Released [1.4.4](https://github.com/Knerio/en2do/releases/tag/1.4.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+1. ✌️ Released [2.7.2](https://github.com/Knerio/JavaUtils/releases/tag/2.7.2) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. ✌️ Released [1.3.0](https://github.com/Knerio/en2do/releases/tag/1.3.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+4. 📔 Created new repository [Knerio/Tetris](https://github.com/Knerio/Tetris)<br>
+5. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
+6. ✌️ Released [1.4.4](https://github.com/Knerio/en2do/releases/tag/1.4.4) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
