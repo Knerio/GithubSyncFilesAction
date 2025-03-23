@@ -32,7 +32,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 2. ✌️ Released [2.7.3](https://github.com/Knerio/JavaUtils/releases/tag/2.7.3) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 3. ✌️ Released [1.3.0](https://github.com/Knerio/en2do/releases/tag/1.3.0) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 4. 📔 Created new repository [Knerio/Tetris](https://github.com/Knerio/Tetris)<br>
-5. ✌️ Released [1.4.5](https://github.com/Knerio/en2do/releases/tag/1.4.5) in [Knerio/en2do](https://github.com/Knerio/en2do)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
