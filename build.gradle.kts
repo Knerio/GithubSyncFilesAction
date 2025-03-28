@@ -14,8 +14,8 @@ repositories {
 
 
 dependencies {
-    implementation("org.projectlombok:lombok:1.18.34")
-    annotationProcessor("org.projectlombok:lombok:1.18.34")
+    implementation("org.projectlombok:lombok:1.18.36")
+    annotationProcessor("org.projectlombok:lombok:1.18.36")
 
     implementation("org.jetbrains:annotations:24.1.0")
     implementation("org.jetbrains:annotations:24.1.0")
