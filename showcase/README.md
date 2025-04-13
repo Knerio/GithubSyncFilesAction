@@ -28,6 +28,7 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
+1. ✌️ Released [0.1.1](https://github.com/Knerio/MultiDB/releases/tag/0.1.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
