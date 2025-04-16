@@ -28,8 +28,9 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.1.3](https://github.com/Knerio/MultiDB/releases/tag/0.1.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-2. ✌️ Released [0.1.1](https://github.com/Knerio/MultiDB/releases/tag/0.1.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ✌️ Released [0.1.4](https://github.com/Knerio/MultiDB/releases/tag/0.1.4) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+2. ✌️ Released [0.1.3](https://github.com/Knerio/MultiDB/releases/tag/0.1.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+3. ✌️ Released [0.1.1](https://github.com/Knerio/MultiDB/releases/tag/0.1.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
