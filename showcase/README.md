@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#22](https://github.com/Knerio/MultiDB/pull/22) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-2. 🎉 Merged PR [#21](https://github.com/Knerio/MultiDB/pull/21) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-3. ✌️ Released [0.2.1](https://github.com/Knerio/MultiDB/releases/tag/0.2.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-4. 🎉 Merged PR [#13](https://github.com/Knerio/MultiDB/pull/13) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. 🎉 Merged PR [#11](https://github.com/Knerio/MultiDB/pull/11) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. 🎉 Merged PR [#12](https://github.com/Knerio/MultiDB/pull/12) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-7. 🎉 Merged PR [#14](https://github.com/Knerio/MultiDB/pull/14) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-8. 🎉 Merged PR [#15](https://github.com/Knerio/MultiDB/pull/15) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#16](https://github.com/Knerio/MultiDB/pull/16) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-10. 🎉 Merged PR [#17](https://github.com/Knerio/MultiDB/pull/17) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ❌ Closed PR [#20](https://github.com/Knerio/MultiDB/pull/20) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+2. 💬 Commented on [#20](https://github.com/Knerio/MultiDB/pull/20#issuecomment-2816834712) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+3. 🎉 Merged PR [#23](https://github.com/Knerio/MultiDB/pull/23) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+4. ✌️ Released [0.2.2](https://github.com/Knerio/MultiDB/releases/tag/0.2.2) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+5. 🎉 Merged PR [#22](https://github.com/Knerio/MultiDB/pull/22) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+6. 🎉 Merged PR [#21](https://github.com/Knerio/MultiDB/pull/21) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+7. ✌️ Released [0.2.1](https://github.com/Knerio/MultiDB/releases/tag/0.2.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+8. 🎉 Merged PR [#13](https://github.com/Knerio/MultiDB/pull/13) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+9. 🎉 Merged PR [#11](https://github.com/Knerio/MultiDB/pull/11) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+10. 🎉 Merged PR [#12](https://github.com/Knerio/MultiDB/pull/12) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
