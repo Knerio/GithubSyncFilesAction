@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#20](https://github.com/Knerio/MultiDB/pull/20) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-2. 💬 Commented on [#20](https://github.com/Knerio/MultiDB/pull/20#issuecomment-2816834712) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-3. 🎉 Merged PR [#23](https://github.com/Knerio/MultiDB/pull/23) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-4. ✌️ Released [0.2.2](https://github.com/Knerio/MultiDB/releases/tag/0.2.2) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. 🎉 Merged PR [#22](https://github.com/Knerio/MultiDB/pull/22) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. 🎉 Merged PR [#21](https://github.com/Knerio/MultiDB/pull/21) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-7. ✌️ Released [0.2.1](https://github.com/Knerio/MultiDB/releases/tag/0.2.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-8. 🎉 Merged PR [#13](https://github.com/Knerio/MultiDB/pull/13) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#11](https://github.com/Knerio/MultiDB/pull/11) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-10. 🎉 Merged PR [#12](https://github.com/Knerio/MultiDB/pull/12) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+2. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+3. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+4. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+5. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. 🎉 Merged PR [#75](https://github.com/Knerio/VaxBot/pull/75) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+7. 🎉 Merged PR [#87](https://github.com/Knerio/VaxBot/pull/87) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+8. 🎉 Merged PR [#93](https://github.com/Knerio/VaxBot/pull/93) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+9. 🎉 Merged PR [#91](https://github.com/Knerio/VaxBot/pull/91) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+10. 🎉 Merged PR [#80](https://github.com/Knerio/VaxBot/pull/80) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
