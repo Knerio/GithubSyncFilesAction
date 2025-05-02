@@ -28,22 +28,22 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-2. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-3. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-4. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-5. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-6. 🎉 Merged PR [#75](https://github.com/Knerio/VaxBot/pull/75) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-7. 🎉 Merged PR [#87](https://github.com/Knerio/VaxBot/pull/87) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-8. 🎉 Merged PR [#93](https://github.com/Knerio/VaxBot/pull/93) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-9. 🎉 Merged PR [#91](https://github.com/Knerio/VaxBot/pull/91) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-10. 🎉 Merged PR [#80](https://github.com/Knerio/VaxBot/pull/80) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+1. 💬 Commented on [#414](https://github.com/code0-tech/sagittarius/issues/414#issuecomment-2845538415) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💪 Opened PR [#453](https://github.com/code0-tech/sagittarius/pull/453) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+4. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+5. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+7. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+8. 🎉 Merged PR [#75](https://github.com/Knerio/VaxBot/pull/75) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+9. 🎉 Merged PR [#87](https://github.com/Knerio/VaxBot/pull/87) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+10. 🎉 Merged PR [#93](https://github.com/Knerio/VaxBot/pull/93) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,21 +52,21 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                772 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-🌆 Daytime                4110 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
-🌃 Evening                6627 commits        █████████████░░░░░░░░░░░░   51.80 % 
-🌙 Night                  1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌞 Morning                779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+🌆 Daytime                4113 commits        ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                6635 commits        █████████████░░░░░░░░░░░░   51.79 % 
+🌙 Night                  1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Tuesday                  1696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Wednesday                1862 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Thursday                 1815 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Saturday                 2028 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Sunday                   2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Monday                   1663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Tuesday                  1696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Wednesday                1862 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 1833 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Friday                   1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 2028 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Sunday                   2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 
 
@@ -76,39 +76,39 @@ Sunday                   2006 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     5 hrs 47 mins       ██████████████████████░░░   86.40 % 
-Kotlin                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Java Properties          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Java                     7 hrs 19 mins       █████████████████████░░░░   83.48 % 
+Kotlin                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Java Properties          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 42 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VaxBot                   3 hrs 44 mins       ██████████████░░░░░░░░░░░   55.83 % 
-varilx-survival          1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-HypingRealmsEvents       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-vax-spigot               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-varilx-core              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+VaxBot                   4 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.11 % 
+varilx-survival          1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+HypingRealmsEvents       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+BotTemplate              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+HypingChestEvent         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     68 repos            █████████████████████░░░░   85.00 % 
-Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Java                     70 repos            █████████████████████░░░░   85.37 % 
+Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
 
 
- Last Updated on 01/05/2025 01:50:17 UTC
+ Last Updated on 02/05/2025 01:42:49 UTC
 <!--END_SECTION:waka-->
 
