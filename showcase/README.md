@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#454](https://github.com/code0-tech/sagittarius/pull/454) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#414](https://github.com/code0-tech/sagittarius/issues/414#issuecomment-2845538415) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💪 Opened PR [#453](https://github.com/code0-tech/sagittarius/pull/453) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-5. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-6. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-7. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-8. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-9. 🎉 Merged PR [#75](https://github.com/Knerio/VaxBot/pull/75) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-10. 🎉 Merged PR [#87](https://github.com/Knerio/VaxBot/pull/87) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+1. 💪 Opened PR [#456](https://github.com/code0-tech/sagittarius/pull/456) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💪 Opened PR [#454](https://github.com/code0-tech/sagittarius/pull/454) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💬 Commented on [#414](https://github.com/code0-tech/sagittarius/issues/414#issuecomment-2845538415) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#453](https://github.com/code0-tech/sagittarius/pull/453) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+7. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+8. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+9. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+10. 🎉 Merged PR [#75](https://github.com/Knerio/VaxBot/pull/75) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
