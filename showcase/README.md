@@ -33,11 +33,11 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 3. 💪 Opened PR [#454](https://github.com/code0-tech/sagittarius/pull/454) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 4. 💬 Commented on [#414](https://github.com/code0-tech/sagittarius/issues/414#issuecomment-2845538415) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 5. 💪 Opened PR [#453](https://github.com/code0-tech/sagittarius/pull/453) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 🎉 Merged PR [#83](https://github.com/Knerio/VaxBot/pull/83) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-7. 🎉 Merged PR [#88](https://github.com/Knerio/VaxBot/pull/88) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-8. 🎉 Merged PR [#92](https://github.com/Knerio/VaxBot/pull/92) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-9. 🎉 Merged PR [#82](https://github.com/Knerio/VaxBot/pull/82) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
-10. 🎉 Merged PR [#86](https://github.com/Knerio/VaxBot/pull/86) in [Knerio/VaxBot](https://github.com/Knerio/VaxBot)<br>
+6. ❌ Closed PR [#20](https://github.com/Knerio/MultiDB/pull/20) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+7. 💬 Commented on [#20](https://github.com/Knerio/MultiDB/pull/20#issuecomment-2816834712) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+8. 🎉 Merged PR [#23](https://github.com/Knerio/MultiDB/pull/23) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+9. ✌️ Released [0.2.2](https://github.com/Knerio/MultiDB/releases/tag/0.2.2) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+10. 🎉 Merged PR [#22](https://github.com/Knerio/MultiDB/pull/22) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
