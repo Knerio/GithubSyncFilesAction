@@ -28,45 +28,45 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.2.3](https://github.com/Knerio/MultiDB/releases/tag/0.2.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-2. 🎉 Merged PR [#24](https://github.com/Knerio/MultiDB/pull/24) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-3. 👍 Approved [#24](https://github.com/Knerio/MultiDB/pull/24#pullrequestreview-2818406063) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-4. 🎉 Merged PR [#25](https://github.com/Varilx-Development/BaseAPI/pull/25) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-5. 👍 Approved [#25](https://github.com/Varilx-Development/BaseAPI/pull/25#pullrequestreview-2815714838) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-6. 🎉 Merged PR [#26](https://github.com/Varilx-Development/BaseAPI/pull/26) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-7. 👍 Approved [#26](https://github.com/Varilx-Development/BaseAPI/pull/26#pullrequestreview-2815714460) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-8. 🎉 Merged PR [#33](https://github.com/Varilx-Development/BaseAPI/pull/33) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-9. 👍 Approved [#33](https://github.com/Varilx-Development/BaseAPI/pull/33#pullrequestreview-2815713898) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-10. ✌️ Released [1.0.7](https://github.com/Varilx-Development/VSit/releases/tag/1.0.7) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+1. 🎉 Merged PR [#25](https://github.com/Knerio/MultiDB/pull/25) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+2. 👍 Approved [#25](https://github.com/Knerio/MultiDB/pull/25#pullrequestreview-2821537151) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+3. ✌️ Released [1.0.0](https://github.com/Knerio/MultiDB/releases/tag/1.0.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+4. ✌️ Released [0.2.3](https://github.com/Knerio/MultiDB/releases/tag/0.2.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+5. 🎉 Merged PR [#24](https://github.com/Knerio/MultiDB/pull/24) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+6. 👍 Approved [#24](https://github.com/Knerio/MultiDB/pull/24#pullrequestreview-2818406063) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+7. 🎉 Merged PR [#25](https://github.com/Varilx-Development/BaseAPI/pull/25) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+8. 👍 Approved [#25](https://github.com/Varilx-Development/BaseAPI/pull/25#pullrequestreview-2815714838) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+9. 🎉 Merged PR [#26](https://github.com/Varilx-Development/BaseAPI/pull/26) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+10. 👍 Approved [#26](https://github.com/Varilx-Development/BaseAPI/pull/26#pullrequestreview-2815714460) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-949.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-967.6%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                735 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-🌆 Daytime                3984 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌃 Evening                6443 commits        █████████████░░░░░░░░░░░░   52.19 % 
-🌙 Night                  1183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+🌞 Morning                763 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+🌆 Daytime                4084 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌃 Evening                6466 commits        █████████████░░░░░░░░░░░░   51.71 % 
+🌙 Night                  1191 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1572 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Tuesday                  1625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Wednesday                1723 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Thursday                 1698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Friday                   1728 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Saturday                 2049 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Sunday                   1950 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Monday                   1594 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  1628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Wednesday                1799 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Thursday                 1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Friday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Saturday                 2051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Sunday                   1976 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 
 
@@ -76,24 +76,24 @@ Sunday                   1950 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     19 hrs 42 mins      █████████████████░░░░░░░░   68.39 % 
-Ruby                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-YAML                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Kotlin                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-GitIgnore file           24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java                     20 hrs 16 mins      █████████████████░░░░░░░░   68.03 % 
+Ruby                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+YAML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Kotlin                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+SQL                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 48 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            29 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ElementalSMP             4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-sagittarius              4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-VaxBot                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-varilx-survival          2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-TeamWarp                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+ElementalSMP             4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+sagittarius              4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+BotTemplate              3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+varilx-survival          2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+TeamWarp                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Windows                  28 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,6 +109,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 01:44:48 UTC
+ Last Updated on 08/05/2025 01:46:00 UTC
 <!--END_SECTION:waka-->
 
