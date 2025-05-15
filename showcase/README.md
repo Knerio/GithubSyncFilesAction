@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#36](https://github.com/Varilx-Development/BaseAPI/pull/36) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-2. 💬 Commented on [#36](https://github.com/Varilx-Development/BaseAPI/pull/36#discussion_r2087470621) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-3. 🎉 Merged PR [#27](https://github.com/Knerio/MultiDB/pull/27) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-4. 🎉 Merged PR [#26](https://github.com/Knerio/MultiDB/pull/26) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-5. 🎉 Merged PR [#25](https://github.com/Knerio/MultiDB/pull/25) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. 👍 Approved [#25](https://github.com/Knerio/MultiDB/pull/25#pullrequestreview-2821537151) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-7. ✌️ Released [1.0.0](https://github.com/Knerio/MultiDB/releases/tag/1.0.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-8. ✌️ Released [0.2.3](https://github.com/Knerio/MultiDB/releases/tag/0.2.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#24](https://github.com/Knerio/MultiDB/pull/24) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-10. 👍 Approved [#24](https://github.com/Knerio/MultiDB/pull/24#pullrequestreview-2818406063) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ✌️ Released [1.1.1](https://github.com/Varilx-Development/BaseAPI/releases/tag/1.1.1) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+2. ❌ Closed PR [#36](https://github.com/Varilx-Development/BaseAPI/pull/36) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+3. 💬 Commented on [#36](https://github.com/Varilx-Development/BaseAPI/pull/36#discussion_r2087470621) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+4. 🎉 Merged PR [#27](https://github.com/Knerio/MultiDB/pull/27) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+5. 🎉 Merged PR [#26](https://github.com/Knerio/MultiDB/pull/26) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+6. 🎉 Merged PR [#25](https://github.com/Knerio/MultiDB/pull/25) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+7. 👍 Approved [#25](https://github.com/Knerio/MultiDB/pull/25#pullrequestreview-2821537151) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+8. ✌️ Released [1.0.0](https://github.com/Knerio/MultiDB/releases/tag/1.0.0) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+9. ✌️ Released [0.2.3](https://github.com/Knerio/MultiDB/releases/tag/0.2.3) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+10. 🎉 Merged PR [#24](https://github.com/Knerio/MultiDB/pull/24) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
