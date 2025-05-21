@@ -28,45 +28,45 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-2. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-3. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-4. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-5. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098220840) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-6. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127291) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-7. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127690) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-8. 🎉 Merged PR [#30](https://github.com/Knerio/MultiDB/pull/30) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-9. 🎉 Merged PR [#39](https://github.com/Varilx-Development/BaseAPI/pull/39) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
-10. 👍 Approved [#39](https://github.com/Varilx-Development/BaseAPI/pull/39#pullrequestreview-2848929985) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)<br>
+1. 🎉 Merged PR [#17](https://github.com/Varilx-Development/VSit/pull/17) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+2. 👍 Approved [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854732322) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+3. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+4. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+5. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+6. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+7. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098220840) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+8. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127291) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+9. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127690) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+10. 🎉 Merged PR [#30](https://github.com/Knerio/MultiDB/pull/30) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1884 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-🌆 Daytime                7520 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
-🌃 Evening                10548 commits       ████████████░░░░░░░░░░░░░   49.06 % 
-🌙 Night                  1547 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+🌞 Morning                1925 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+🌆 Daytime                7789 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌃 Evening                9625 commits        ████████████░░░░░░░░░░░░░   46.26 % 
+🌙 Night                  1466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Tuesday                  2843 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Wednesday                3241 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Thursday                 3140 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Friday                   2824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Saturday                 3811 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Sunday                   3304 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Monday                   2432 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Tuesday                  2721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                3188 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 2890 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   2731 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 3768 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   3075 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 ```
 
 
@@ -76,24 +76,24 @@ Sunday                   3304 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     13 hrs 58 mins      ██████████████░░░░░░░░░░░   55.59 % 
-YAML                     3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Ruby                     3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Kotlin                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Java                     12 hrs 33 mins      ██████████████░░░░░░░░░░░   54.08 % 
+YAML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Ruby                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Kotlin                   2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            25 hrs 8 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            23 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SanitySMP                8 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-RedstoneMachines         4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-sagittarius              3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-mmo-core                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-VDiscordIntegration      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+SanitySMP                8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+sagittarius              3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+DarkSMP                  2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+VDiscordIntegration      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+mmo-core                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Windows                  25 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,6 +109,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 01:47:39 UTC
+ Last Updated on 21/05/2025 01:47:04 UTC
 <!--END_SECTION:waka-->
 
