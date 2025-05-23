@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#17](https://github.com/Varilx-Development/VSit/pull/17) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-2. 👍 Approved [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854732322) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-3. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-4. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-5. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-6. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-7. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098220840) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-8. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127291) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-9. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127690) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-10. 🎉 Merged PR [#30](https://github.com/Knerio/MultiDB/pull/30) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ❗️ Opened issue [#474](https://github.com/code0-tech/sagittarius/issues/474) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💬 Commented on [#470](https://github.com/code0-tech/sagittarius/pull/470#discussion_r2105402012) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#17](https://github.com/Varilx-Development/VSit/pull/17) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+4. 👍 Approved [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854732322) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+5. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+6. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+7. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+8. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+9. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098220840) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+10. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127291) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
