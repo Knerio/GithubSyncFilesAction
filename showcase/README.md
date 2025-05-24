@@ -28,22 +28,22 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#474](https://github.com/code0-tech/sagittarius/issues/474) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#470](https://github.com/code0-tech/sagittarius/pull/470#discussion_r2105402012) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 🎉 Merged PR [#17](https://github.com/Varilx-Development/VSit/pull/17) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-4. 👍 Approved [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854732322) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-5. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-6. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-7. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-8. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-9. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098220840) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-10. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098127291) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+1. ❗️ Opened issue [#475](https://github.com/code0-tech/sagittarius/issues/475) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#137](https://github.com/code0-tech/infrastructure/pull/137#pullrequestreview-2865813590) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+3. ❗️ Opened issue [#474](https://github.com/code0-tech/sagittarius/issues/474) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#470](https://github.com/code0-tech/sagittarius/pull/470#discussion_r2105402012) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#17](https://github.com/Varilx-Development/VSit/pull/17) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+6. 👍 Approved [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854732322) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+7. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222079) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+8. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098219596) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+9. 🔴 Requested changes in [#17](https://github.com/Varilx-Development/VSit/pull/17#pullrequestreview-2854591224) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+10. 💬 Commented on [#17](https://github.com/Varilx-Development/VSit/pull/17#discussion_r2098222589) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,18 +53,18 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ```text
 🌞 Morning                2069 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-🌆 Daytime                8361 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌃 Evening                10316 commits       ████████████░░░░░░░░░░░░░   46.34 % 
+🌆 Daytime                8361 commits        █████████░░░░░░░░░░░░░░░░   37.55 % 
+🌃 Evening                10319 commits       ████████████░░░░░░░░░░░░░   46.35 % 
 🌙 Night                  1516 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   2623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Tuesday                  2913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Wednesday                3441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Tuesday                  2914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Wednesday                3441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 Thursday                 3099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   2865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   2867 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Saturday                 4008 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 Sunday                   3313 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 ```
@@ -76,39 +76,39 @@ Sunday                   3313 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     10 hrs 25 mins      █████████████░░░░░░░░░░░░   52.18 % 
-Ruby                     4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Kotlin                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-YAML                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Java                     11 hrs 17 mins      █████████████░░░░░░░░░░░░   50.13 % 
+Ruby                     5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+YAML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Kotlin                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 58 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            22 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DarkSMP                  5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-SanitySMP                5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-sagittarius              4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-mmo-core                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-VDiscordIntegration      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+DarkSMP                  7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
+sagittarius              5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+SanitySMP                3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+mmo-core                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+VDiscordIntegration      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     87 repos            ██████████████████████░░░   87.88 % 
-Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Java                     87 repos            ██████████████████████░░░   87.00 % 
+Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
 
 
- Last Updated on 23/05/2025 01:46:28 UTC
+ Last Updated on 24/05/2025 01:43:31 UTC
 <!--END_SECTION:waka-->
 
