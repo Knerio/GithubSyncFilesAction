@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#420](https://github.com/code0-tech/sagittarius/issues/420#issuecomment-2915860837) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#420](https://github.com/code0-tech/sagittarius/issues/420#issuecomment-2915600361) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ✌️ Released [0.0.28](https://github.com/code0-tech/tucana/releases/tag/0.0.28) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 👍 Approved [#95](https://github.com/code0-tech/tucana/pull/95#pullrequestreview-2872559178) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 🎉 Merged PR [#20](https://github.com/Varilx-Development/VSit/pull/20) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-6. 👍 Approved [#20](https://github.com/Varilx-Development/VSit/pull/20#pullrequestreview-2871170703) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-7. 🎉 Merged PR [#18](https://github.com/Varilx-Development/VSit/pull/18) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-8. 🎉 Merged PR [#19](https://github.com/Varilx-Development/VSit/pull/19) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-9. 👍 Approved [#19](https://github.com/Varilx-Development/VSit/pull/19#pullrequestreview-2871167875) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
-10. 👍 Approved [#18](https://github.com/Varilx-Development/VSit/pull/18#pullrequestreview-2871167193) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+1. ❌ Closed PR [#484](https://github.com/code0-tech/sagittarius/pull/484) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#485](https://github.com/code0-tech/sagittarius/issues/485) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#484](https://github.com/code0-tech/sagittarius/pull/484) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#420](https://github.com/code0-tech/sagittarius/issues/420#issuecomment-2915980479) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#420](https://github.com/code0-tech/sagittarius/issues/420#issuecomment-2915860837) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#420](https://github.com/code0-tech/sagittarius/issues/420#issuecomment-2915600361) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. ✌️ Released [0.0.28](https://github.com/code0-tech/tucana/releases/tag/0.0.28) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+8. 👍 Approved [#95](https://github.com/code0-tech/tucana/pull/95#pullrequestreview-2872559178) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+9. 🎉 Merged PR [#20](https://github.com/Varilx-Development/VSit/pull/20) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
+10. 👍 Approved [#20](https://github.com/Varilx-Development/VSit/pull/20#pullrequestreview-2871170703) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
