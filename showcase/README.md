@@ -28,45 +28,45 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#101](https://github.com/code0-tech/tucana/pull/101) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 💪 Opened PR [#100](https://github.com/code0-tech/tucana/pull/100) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 💪 Opened PR [#492](https://github.com/code0-tech/sagittarius/pull/492) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. ❗️ Opened issue [#491](https://github.com/code0-tech/sagittarius/issues/491) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#99](https://github.com/code0-tech/tucana/pull/99) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. ❗️ Opened issue [#490](https://github.com/code0-tech/sagittarius/issues/490) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ❌ Closed PR [#483](https://github.com/code0-tech/sagittarius/pull/483) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ❌ Closed PR [#481](https://github.com/code0-tech/sagittarius/pull/481) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 💪 Opened PR [#97](https://github.com/code0-tech/tucana/pull/97) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. 💪 Opened PR [#486](https://github.com/code0-tech/sagittarius/pull/486) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💬 Commented on [#101](https://github.com/code0-tech/tucana/pull/101#issuecomment-2925118483) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💬 Commented on [#101](https://github.com/code0-tech/tucana/pull/101#issuecomment-2925105311) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 💬 Commented on [#101](https://github.com/code0-tech/tucana/pull/101#issuecomment-2925066966) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💬 Commented on [#101](https://github.com/code0-tech/tucana/pull/101#issuecomment-2924914425) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 💪 Opened PR [#101](https://github.com/code0-tech/tucana/pull/101) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+6. 💪 Opened PR [#100](https://github.com/code0-tech/tucana/pull/100) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+7. 💪 Opened PR [#492](https://github.com/code0-tech/sagittarius/pull/492) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. ❗️ Opened issue [#491](https://github.com/code0-tech/sagittarius/issues/491) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 💪 Opened PR [#99](https://github.com/code0-tech/tucana/pull/99) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+10. ❗️ Opened issue [#490](https://github.com/code0-tech/sagittarius/issues/490) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2157 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-🌆 Daytime                8622 commits        █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌃 Evening                11477 commits       ████████████░░░░░░░░░░░░░   48.10 % 
-🌙 Night                  1606 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌞 Morning                2168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌆 Daytime                8741 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌃 Evening                11633 commits       ████████████░░░░░░░░░░░░░   48.16 % 
+🌙 Night                  1614 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  3149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                3602 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 3399 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Friday                   3083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 4227 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Sunday                   3644 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Monday                   2769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Tuesday                  3184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                3629 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 3443 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   3080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Saturday                 4348 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Sunday                   3703 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 ```
 
 
@@ -76,39 +76,39 @@ Sunday                   3644 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Ruby                     34 hrs 19 mins      ███████████████████░░░░░░   77.12 % 
-Java                     5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-SQL                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Ruby                     36 hrs 54 mins      ███████████████████░░░░░░   76.17 % 
+Java                     5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JSON                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript               46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-IntelliJ IDEA            44 hrs 30 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            48 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sagittarius              36 hrs              ████████████████████░░░░░   80.88 % 
-Generators               5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-DarkSMP                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-tucana                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-aquila                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+sagittarius              39 hrs 31 mins      ████████████████████░░░░░   81.58 % 
+Generators               5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+DarkSMP                  56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+tucana                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+aquila                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Windows                  44 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  48 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     87 repos            ██████████████████████░░░   87.88 % 
-Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Java                     88 repos            ██████████████████████░░░   88.00 % 
+Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
 
 
- Last Updated on 31/05/2025 01:45:07 UTC
+ Last Updated on 01/06/2025 02:04:11 UTC
 <!--END_SECTION:waka-->
 
