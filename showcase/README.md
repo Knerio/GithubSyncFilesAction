@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131744500) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131732795) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131730763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 📔 Created new repository [Knerio/Configs](https://github.com/Knerio/Configs)<br>
-5. ✌️ Released [1.0.1](https://github.com/Knerio/MultiDB/releases/tag/1.0.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
-6. ❗️ Opened issue [#510](https://github.com/code0-tech/sagittarius/issues/510) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ✔️ Closed issue [#388](https://github.com/code0-tech/sagittarius/issues/388) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ✔️ Closed issue [#507](https://github.com/code0-tech/sagittarius/issues/507) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. ✔️ Closed issue [#506](https://github.com/code0-tech/sagittarius/issues/506) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ❗️ Opened issue [#509](https://github.com/code0-tech/sagittarius/issues/509) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#511](https://github.com/code0-tech/sagittarius/issues/511) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131767662) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131765767) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131760768) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131758934) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131744500) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131732795) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131730763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 📔 Created new repository [Knerio/Configs](https://github.com/Knerio/Configs)<br>
+10. ✌️ Released [1.0.1](https://github.com/Knerio/MultiDB/releases/tag/1.0.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
