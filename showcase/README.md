@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#388](https://github.com/code0-tech/sagittarius/issues/388) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✔️ Closed issue [#507](https://github.com/code0-tech/sagittarius/issues/507) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ✔️ Closed issue [#506](https://github.com/code0-tech/sagittarius/issues/506) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. ❗️ Opened issue [#509](https://github.com/code0-tech/sagittarius/issues/509) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❗️ Opened issue [#508](https://github.com/code0-tech/sagittarius/issues/508) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ❗️ Opened issue [#507](https://github.com/code0-tech/sagittarius/issues/507) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ❗️ Opened issue [#506](https://github.com/code0-tech/sagittarius/issues/506) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ❗️ Opened issue [#505](https://github.com/code0-tech/sagittarius/issues/505) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. ✔️ Closed issue [#420](https://github.com/code0-tech/sagittarius/issues/420) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ❗️ Opened issue [#504](https://github.com/code0-tech/sagittarius/issues/504) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#510](https://github.com/code0-tech/sagittarius/issues/510) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ✔️ Closed issue [#388](https://github.com/code0-tech/sagittarius/issues/388) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✔️ Closed issue [#507](https://github.com/code0-tech/sagittarius/issues/507) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. ✔️ Closed issue [#506](https://github.com/code0-tech/sagittarius/issues/506) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ❗️ Opened issue [#509](https://github.com/code0-tech/sagittarius/issues/509) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. ❗️ Opened issue [#508](https://github.com/code0-tech/sagittarius/issues/508) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. ❗️ Opened issue [#507](https://github.com/code0-tech/sagittarius/issues/507) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. ❗️ Opened issue [#506](https://github.com/code0-tech/sagittarius/issues/506) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❗️ Opened issue [#505](https://github.com/code0-tech/sagittarius/issues/505) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. ✔️ Closed issue [#420](https://github.com/code0-tech/sagittarius/issues/420) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
