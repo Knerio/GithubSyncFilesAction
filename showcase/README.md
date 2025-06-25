@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#511](https://github.com/code0-tech/sagittarius/issues/511) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131767662) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131765767) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131760768) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131758934) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131744500) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131732795) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131730763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 📔 Created new repository [Knerio/Configs](https://github.com/Knerio/Configs)<br>
-10. ✌️ Released [1.0.1](https://github.com/Knerio/MultiDB/releases/tag/1.0.1) in [Knerio/MultiDB](https://github.com/Knerio/MultiDB)<br>
+1. ❗️ Opened issue [#521](https://github.com/code0-tech/sagittarius/issues/521) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#511](https://github.com/code0-tech/sagittarius/issues/511) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131767662) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131765767) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131760768) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131758934) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131744500) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131732795) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 💬 Commented on [#486](https://github.com/code0-tech/sagittarius/pull/486#discussion_r2131730763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 📔 Created new repository [Knerio/Configs](https://github.com/Knerio/Configs)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
