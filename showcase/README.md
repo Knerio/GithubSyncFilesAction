@@ -28,11 +28,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#514](https://github.com/code0-tech/sagittarius/pull/514#pullrequestreview-2955222945) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 👍 Approved [#516](https://github.com/code0-tech/sagittarius/pull/516#pullrequestreview-2955220612) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#519](https://github.com/code0-tech/sagittarius/pull/519#pullrequestreview-2955211837) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 👍 Approved [#515](https://github.com/code0-tech/sagittarius/pull/515#pullrequestreview-2955202991) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#523](https://github.com/code0-tech/sagittarius/pull/523) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
