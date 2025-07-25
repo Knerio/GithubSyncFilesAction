@@ -33,8 +33,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 3. 👍 Approved [#519](https://github.com/code0-tech/sagittarius/pull/519#pullrequestreview-2955211837) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 4. 👍 Approved [#515](https://github.com/code0-tech/sagittarius/pull/515#pullrequestreview-2955202991) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 5. 💪 Opened PR [#523](https://github.com/code0-tech/sagittarius/pull/523) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ❗️ Opened issue [#522](https://github.com/code0-tech/sagittarius/issues/522) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ❗️ Opened issue [#521](https://github.com/code0-tech/sagittarius/issues/521) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
