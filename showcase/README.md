@@ -33,50 +33,9 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-🌆 Daytime                6508 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌃 Evening                9998 commits        █████████████░░░░░░░░░░░░   51.32 % 
-🌙 Night                  1333 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Tuesday                  2556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Wednesday                2847 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Thursday                 2582 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Friday                   2456 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Saturday                 3415 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Sunday                   2998 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Java** 
 
@@ -91,6 +50,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:59:21 UTC
+ Last Updated on 31/07/2025 01:57:41 UTC
 <!--END_SECTION:waka-->
 
