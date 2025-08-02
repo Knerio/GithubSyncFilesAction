@@ -28,6 +28,7 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [contariaa/seedqueue](https://github.com/contariaa/seedqueue)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
