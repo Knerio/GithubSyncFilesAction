@@ -39,9 +39,50 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 #
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2007 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+🌆 Daytime                8016 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌃 Evening                11504 commits       ████████████░░░░░░░░░░░░░   49.72 % 
+🌙 Night                  1611 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3210 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  2916 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                3495 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Thursday                 3130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   2742 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Saturday                 4090 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Sunday                   3555 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Java** 
 
@@ -56,6 +97,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 01:29:35 UTC
+ Last Updated on 04/10/2025 01:27:22 UTC
 <!--END_SECTION:waka-->
 
