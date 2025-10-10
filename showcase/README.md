@@ -28,12 +28,15 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#574](https://github.com/code0-tech/sagittarius/pull/574) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#570](https://github.com/code0-tech/sagittarius/pull/570) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#569](https://github.com/code0-tech/sagittarius/pull/569) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ❗️ Opened issue [#126](https://github.com/code0-tech/tucana/issues/126) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#595](https://github.com/code0-tech/sagittarius/pull/595) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#594](https://github.com/code0-tech/sagittarius/issues/594) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ❗️ Opened issue [#593](https://github.com/code0-tech/sagittarius/issues/593) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#574](https://github.com/code0-tech/sagittarius/pull/574) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💪 Opened PR [#570](https://github.com/code0-tech/sagittarius/pull/570) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💪 Opened PR [#569](https://github.com/code0-tech/sagittarius/pull/569) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❗️ Opened issue [#126](https://github.com/code0-tech/tucana/issues/126) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
@@ -43,26 +46,26 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1795 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-🌆 Daytime                7686 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
-🌃 Evening                10683 commits       ████████████░░░░░░░░░░░░░   49.22 % 
-🌙 Night                  1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌞 Morning                1853 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+🌆 Daytime                7886 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
+🌃 Evening                11069 commits       ████████████░░░░░░░░░░░░░   49.48 % 
+🌙 Night                  1564 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3068 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  2840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Wednesday                3376 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 2802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Friday                   2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Saturday                 3854 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Sunday                   3221 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Monday                   3092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Tuesday                  2910 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Wednesday                3434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 2901 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Friday                   2637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Saturday                 4016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Sunday                   3382 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 
 
@@ -97,6 +100,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 01:31:21 UTC
+ Last Updated on 10/10/2025 01:33:32 UTC
 <!--END_SECTION:waka-->
 
