@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#703](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ❌ Closed PR [#244](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 💪 Opened PR [#244](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 🔱 Forked [Knerio/reticulum](https://github.com/Knerio/reticulum) from [Knerio/reticulum](https://github.com/Knerio/reticulum)<br>
-5. 💪 Opened PR [#702](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💪 Opened PR [#701](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. ❌ Closed PR [#700](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ❌ Closed PR [#697](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 💪 Opened PR [#699](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ❗️ Opened issue [#698](https://github.com/code0-tech/sagittarius/issues/698) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#706](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#705](https://github.com/code0-tech/sagittarius/issues/705) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💬 Commented on [#699](https://github.com/code0-tech/sagittarius/pull/699#discussion_r2547368432) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#696](https://github.com/code0-tech/sagittarius/pull/696#issuecomment-3559657596) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#699](https://github.com/code0-tech/sagittarius/pull/699#issuecomment-3559655416) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#685](https://github.com/code0-tech/sagittarius/pull/685#issuecomment-3559652708) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💬 Commented on [#685](https://github.com/code0-tech/sagittarius/pull/685#discussion_r2547348286) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💪 Opened PR [#703](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❌ Closed PR [#244](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+10. 💪 Opened PR [#244](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
