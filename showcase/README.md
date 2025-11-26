@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#724](https://github.com/code0-tech/sagittarius/pull/724#issuecomment-3577293095) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#722](https://github.com/code0-tech/sagittarius/issues/722#issuecomment-3576173924) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ✔️ Closed issue [#722](https://github.com/code0-tech/sagittarius/issues/722) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#726](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❗️ Opened issue [#725](https://github.com/code0-tech/sagittarius/issues/725) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💪 Opened PR [#724](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. 👍 Approved [#214](https://github.com/code0-tech/aquila/pull/214#pullrequestreview-3502000294) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
-8. ❗️ Opened issue [#723](https://github.com/code0-tech/sagittarius/issues/723) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. ❗️ Opened issue [#722](https://github.com/code0-tech/sagittarius/issues/722) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ❗️ Opened issue [#721](https://github.com/code0-tech/sagittarius/issues/721) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❌ Closed PR [#264](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+2. 💪 Opened PR [#727](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#264](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 💬 Commented on [#724](https://github.com/code0-tech/sagittarius/pull/724#issuecomment-3577293095) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💬 Commented on [#722](https://github.com/code0-tech/sagittarius/issues/722#issuecomment-3576173924) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. ✔️ Closed issue [#722](https://github.com/code0-tech/sagittarius/issues/722) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💪 Opened PR [#726](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. ❗️ Opened issue [#725](https://github.com/code0-tech/sagittarius/issues/725) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 💪 Opened PR [#724](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 👍 Approved [#214](https://github.com/code0-tech/aquila/pull/214#pullrequestreview-3502000294) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
