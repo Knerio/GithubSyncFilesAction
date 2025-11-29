@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#162](https://github.com/code0-tech/tucana/issues/162) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 💪 Opened PR [#740](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ❗️ Opened issue [#739](https://github.com/code0-tech/sagittarius/issues/739) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#737](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#163](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. ❗️ Opened issue [#162](https://github.com/code0-tech/tucana/issues/162) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-7. 💪 Opened PR [#736](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. ❗️ Opened issue [#735](https://github.com/code0-tech/sagittarius/issues/735) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 💪 Opened PR [#161](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. ❗️ Opened issue [#160](https://github.com/code0-tech/tucana/issues/160) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#744](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ✔️ Closed issue [#162](https://github.com/code0-tech/tucana/issues/162) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 💪 Opened PR [#740](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. ❗️ Opened issue [#739](https://github.com/code0-tech/sagittarius/issues/739) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💪 Opened PR [#737](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💪 Opened PR [#163](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+7. ❗️ Opened issue [#162](https://github.com/code0-tech/tucana/issues/162) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+8. 💪 Opened PR [#736](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❗️ Opened issue [#735](https://github.com/code0-tech/sagittarius/issues/735) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 💪 Opened PR [#161](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
