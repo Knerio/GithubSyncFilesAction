@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#772](https://github.com/code0-tech/sagittarius/issues/772) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ❗️ Opened issue [#771](https://github.com/code0-tech/sagittarius/issues/771) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💪 Opened PR [#770](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#769](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💬 Commented on [#762](https://github.com/code0-tech/sagittarius/pull/762#discussion_r2616529880) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💪 Opened PR [#768](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. 💪 Opened PR [#762](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-8. 💬 Commented on [#168](https://github.com/code0-tech/tucana/issues/168#issuecomment-3621979394) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-9. 💪 Opened PR [#759](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. 💪 Opened PR [#758](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ✔️ Closed issue [#19](https://github.com/code0-tech/code0-identities/issues/19) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. ✌️ Released [0.0.3](https://github.com/code0-tech/code0-identities/releases/tag/0.0.3) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. 💪 Opened PR [#20](undefined) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+4. 💪 Opened PR [#775](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ❗️ Opened issue [#19](https://github.com/code0-tech/code0-identities/issues/19) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+6. ❗️ Opened issue [#774](https://github.com/code0-tech/sagittarius/issues/774) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💬 Commented on [#766](https://github.com/code0-tech/sagittarius/issues/766#issuecomment-3657022537) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💪 Opened PR [#773](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❗️ Opened issue [#772](https://github.com/code0-tech/sagittarius/issues/772) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. ❗️ Opened issue [#771](https://github.com/code0-tech/sagittarius/issues/771) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
