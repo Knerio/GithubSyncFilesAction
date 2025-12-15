@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#762](https://github.com/code0-tech/sagittarius/pull/762#discussion_r2616529880) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#768](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💪 Opened PR [#762](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💬 Commented on [#168](https://github.com/code0-tech/tucana/issues/168#issuecomment-3621979394) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 💪 Opened PR [#759](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💪 Opened PR [#758](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-7. 💪 Opened PR [#167](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-8. 💪 Opened PR [#166](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-9. 💪 Opened PR [#757](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-10. ❗️ Opened issue [#756](https://github.com/code0-tech/sagittarius/issues/756) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#771](https://github.com/code0-tech/sagittarius/issues/771) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💪 Opened PR [#770](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#769](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💬 Commented on [#762](https://github.com/code0-tech/sagittarius/pull/762#discussion_r2616529880) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💪 Opened PR [#768](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💪 Opened PR [#762](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💬 Commented on [#168](https://github.com/code0-tech/tucana/issues/168#issuecomment-3621979394) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+8. 💪 Opened PR [#759](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. 💪 Opened PR [#758](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 💪 Opened PR [#167](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
