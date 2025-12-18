@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#788](https://github.com/code0-tech/sagittarius/issues/788#issuecomment-3672054547) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✌️ Released [0.0.49](https://github.com/code0-tech/tucana/releases/tag/0.0.49) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ✔️ Closed issue [#168](https://github.com/code0-tech/tucana/issues/168) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#discussion_r2631445858) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631114433) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631070636) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-7. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631069625) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-8. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#issuecomment-3670174485) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-9. 💬 Commented on [#178](https://github.com/code0-tech/tucana/pull/178#discussion_r2630981075) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#issuecomment-3670163900) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. ❗️ Opened issue [#789](https://github.com/code0-tech/sagittarius/issues/789) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💬 Commented on [#788](https://github.com/code0-tech/sagittarius/issues/788#issuecomment-3672054547) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✌️ Released [0.0.49](https://github.com/code0-tech/tucana/releases/tag/0.0.49) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. ✔️ Closed issue [#168](https://github.com/code0-tech/tucana/issues/168) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#discussion_r2631445858) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631114433) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+7. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631070636) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+8. 💬 Commented on [#177](https://github.com/code0-tech/tucana/pull/177#discussion_r2631069625) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+9. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#issuecomment-3670174485) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+10. 💬 Commented on [#178](https://github.com/code0-tech/tucana/pull/178#discussion_r2630981075) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
