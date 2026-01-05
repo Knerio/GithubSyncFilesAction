@@ -43,9 +43,50 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 #
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2276 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌆 Daytime                9896 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌃 Evening                15462 commits       █████████████░░░░░░░░░░░░   52.62 % 
+🌙 Night                  1753 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Tuesday                  3591 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Wednesday                4052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 4411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Friday                   3626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 5689 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Sunday                   4564 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Java** 
 
@@ -60,6 +101,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:38:31 UTC
+ Last Updated on 05/01/2026 00:35:37 UTC
 <!--END_SECTION:waka-->
 
