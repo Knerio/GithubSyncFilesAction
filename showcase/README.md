@@ -28,12 +28,14 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#782](https://github.com/code0-tech/sagittarius/pull/782#discussion_r2724656346) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#200](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ✌️ Released [0.0.51](https://github.com/code0-tech/tucana/releases/tag/0.0.51) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#issuecomment-3790955070) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❌ Closed PR [#787](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. 💬 Commented on [#782](https://github.com/code0-tech/sagittarius/pull/782#discussion_r2652759053) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 👍 Approved [#202](https://github.com/code0-tech/tucana/pull/202#pullrequestreview-3716989707) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#840](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💬 Commented on [#782](https://github.com/code0-tech/sagittarius/pull/782#discussion_r2724656346) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#200](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ✌️ Released [0.0.51](https://github.com/code0-tech/tucana/releases/tag/0.0.51) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+6. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#issuecomment-3790955070) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. ❌ Closed PR [#787](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💬 Commented on [#782](https://github.com/code0-tech/sagittarius/pull/782#discussion_r2652759053) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
