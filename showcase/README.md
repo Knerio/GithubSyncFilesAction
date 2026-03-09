@@ -28,9 +28,12 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-2. 👍 Approved [#207](https://github.com/code0-tech/tucana/pull/207#pullrequestreview-3828248528) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ❗️ Opened issue [#210](https://github.com/code0-tech/tucana/issues/210) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#231](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#230](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ❗️ Opened issue [#229](https://github.com/code0-tech/tucana/issues/229) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💪 Opened PR [#1](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+5. 👍 Approved [#207](https://github.com/code0-tech/tucana/pull/207#pullrequestreview-3828248528) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+6. ❗️ Opened issue [#210](https://github.com/code0-tech/tucana/issues/210) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
