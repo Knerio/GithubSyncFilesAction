@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.57](https://github.com/code0-tech/tucana/releases/tag/0.0.57) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. ✔️ Closed issue [#232](https://github.com/code0-tech/tucana/issues/232) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ✔️ Closed issue [#229](https://github.com/code0-tech/tucana/issues/229) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912319212) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-5. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912213731) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-6. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912186035) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909627807) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909627434) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-9. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909627042) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-10. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909625770) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+1. ✌️ Released [0.0.58](https://github.com/code0-tech/tucana/releases/tag/0.0.58) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#237](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ✌️ Released [0.0.57](https://github.com/code0-tech/tucana/releases/tag/0.0.57) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. ✔️ Closed issue [#232](https://github.com/code0-tech/tucana/issues/232) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ✔️ Closed issue [#229](https://github.com/code0-tech/tucana/issues/229) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+6. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912319212) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+7. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912213731) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+8. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2912186035) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+9. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909627807) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+10. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#discussion_r2909627434) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
