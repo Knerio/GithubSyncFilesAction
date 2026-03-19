@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.61](https://github.com/code0-tech/tucana/releases/tag/0.0.61) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 💪 Opened PR [#243](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ❌ Closed PR [#5](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-4. ✌️ Released [0.0.60](https://github.com/code0-tech/tucana/releases/tag/0.0.60) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 💪 Opened PR [#242](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. ✌️ Released [0.0.59](https://github.com/code0-tech/tucana/releases/tag/0.0.59) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-7. ✔️ Closed issue [#240](https://github.com/code0-tech/tucana/issues/240) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-8. 👍 Approved [#241](https://github.com/code0-tech/tucana/pull/241#pullrequestreview-3950050057) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-9. ✔️ Closed issue [#233](https://github.com/code0-tech/tucana/issues/233) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. 💬 Commented on [#2](https://github.com/code0-tech/hercules/pull/2#issuecomment-4060516298) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+1. 💪 Opened PR [#7](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+2. ❌ Closed PR [#6](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+3. 💪 Opened PR [#6](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+4. 👍 Approved [#119](https://github.com/code0-tech/telescopium/pull/119#pullrequestreview-3974965571) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+5. 👍 Approved [#1](https://github.com/code0-tech/centaurus/pull/1#pullrequestreview-3974891079) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+6. ✌️ Released [0.0.61](https://github.com/code0-tech/tucana/releases/tag/0.0.61) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+7. 💪 Opened PR [#243](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+8. ❌ Closed PR [#5](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+9. ✌️ Released [0.0.60](https://github.com/code0-tech/tucana/releases/tag/0.0.60) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+10. 💪 Opened PR [#242](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
