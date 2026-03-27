@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8](https://github.com/code0-tech/hercules/pull/8#discussion_r3002744722) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-2. 💪 Opened PR [#8](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-3. ✌️ Released [0.0.62](https://github.com/code0-tech/tucana/releases/tag/0.0.62) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. ❌ Closed PR [#247](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 💪 Opened PR [#248](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. 💪 Opened PR [#247](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-7. 💪 Opened PR [#7](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. ❌ Closed PR [#6](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-9. 💪 Opened PR [#6](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-10. 👍 Approved [#119](https://github.com/code0-tech/telescopium/pull/119#pullrequestreview-3974965571) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+1. ❗️ Opened issue [#10](https://github.com/code0-tech/hercules/issues/10) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+2. 💪 Opened PR [#250](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ❗️ Opened issue [#249](https://github.com/code0-tech/tucana/issues/249) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💪 Opened PR [#3](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+5. 💪 Opened PR [#9](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+6. 💬 Commented on [#8](https://github.com/code0-tech/hercules/pull/8#discussion_r3002744722) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+7. 💪 Opened PR [#8](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+8. ✌️ Released [0.0.62](https://github.com/code0-tech/tucana/releases/tag/0.0.62) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+9. ❌ Closed PR [#247](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+10. 💪 Opened PR [#248](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
