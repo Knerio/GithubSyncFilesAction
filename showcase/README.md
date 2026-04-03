@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/code0-tech/centaurus/issues/11) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-2. 💪 Opened PR [#10](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-3. 💬 Commented on [#9](https://github.com/code0-tech/centaurus/issues/9#issuecomment-4176045848) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-4. ✔️ Closed issue [#4](https://github.com/code0-tech/centaurus/issues/4) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-5. 💪 Opened PR [#8](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-6. ✌️ Released [0.0.2](https://github.com/code0-tech/hercules/releases/tag/0.0.2) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. 💪 Opened PR [#15](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. ✌️ Released [0.0.65](https://github.com/code0-tech/tucana/releases/tag/0.0.65) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-9. 💬 Commented on [#5](https://github.com/code0-tech/centaurus/pull/5#issuecomment-4149919324) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-10. 💪 Opened PR [#253](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#16](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+2. ✌️ Released [0.0.66](https://github.com/code0-tech/tucana/releases/tag/0.0.66) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ❗️ Opened issue [#11](https://github.com/code0-tech/centaurus/issues/11) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+4. 💪 Opened PR [#10](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+5. 💬 Commented on [#9](https://github.com/code0-tech/centaurus/issues/9#issuecomment-4176045848) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+6. ✔️ Closed issue [#4](https://github.com/code0-tech/centaurus/issues/4) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+7. 💪 Opened PR [#8](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+8. ✌️ Released [0.0.2](https://github.com/code0-tech/hercules/releases/tag/0.0.2) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+9. 💪 Opened PR [#15](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+10. ✌️ Released [0.0.65](https://github.com/code0-tech/tucana/releases/tag/0.0.65) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
