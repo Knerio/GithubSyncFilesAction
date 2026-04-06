@@ -28,73 +28,26 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.68](https://github.com/code0-tech/tucana/releases/tag/0.0.68) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 💪 Opened PR [#262](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 💪 Opened PR [#19](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-4. 💬 Commented on [#8](https://github.com/code0-tech/centaurus/pull/8#issuecomment-4187585682) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-5. 💪 Opened PR [#12](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
-6. 💪 Opened PR [#17](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. ✌️ Released [0.0.67](https://github.com/code0-tech/tucana/releases/tag/0.0.67) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-8. ✔️ Closed issue [#258](https://github.com/code0-tech/tucana/issues/258) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-9. 👍 Approved [#259](https://github.com/code0-tech/tucana/pull/259#pullrequestreview-4058678089) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. 💪 Opened PR [#16](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+1. ✌️ Released [0.0.3](https://github.com/code0-tech/hercules/releases/tag/0.0.3) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+2. ✌️ Released [0.0.68](https://github.com/code0-tech/tucana/releases/tag/0.0.68) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 💪 Opened PR [#262](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💪 Opened PR [#19](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+5. 💬 Commented on [#8](https://github.com/code0-tech/centaurus/pull/8#issuecomment-4187585682) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+6. 💪 Opened PR [#12](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+7. 💪 Opened PR [#17](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+8. ✌️ Released [0.0.67](https://github.com/code0-tech/tucana/releases/tag/0.0.67) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+9. ✔️ Closed issue [#258](https://github.com/code0-tech/tucana/issues/258) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+10. 👍 Approved [#259](https://github.com/code0-tech/tucana/pull/259#pullrequestreview-4058678089) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.37%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-🌆 Daytime                10188 commits       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌃 Evening                15720 commits       █████████████░░░░░░░░░░░░   52.42 % 
-🌙 Night                  1747 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   3586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Tuesday                  3713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Wednesday                4063 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Thursday                 4453 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Friday                   3685 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Saturday                 5816 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Sunday                   4671 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               14 hrs 39 mins      ██████████████████░░░░░░░   73.54 % 
-MDX                      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-🔥 Editors: 
-IntelliJ IDEA            19 hrs 56 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-centaurus                16 hrs 49 mins      █████████████████████░░░░   84.36 % 
-telescopium              1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-hercules                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-tucana                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-aquila                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-💻 Operating System: 
-Linux                    19 hrs 56 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Java** 
 
@@ -109,6 +62,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 00:45:15 UTC
+ Last Updated on 06/04/2026 00:47:52 UTC
 <!--END_SECTION:waka-->
 
