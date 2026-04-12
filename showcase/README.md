@@ -28,16 +28,16 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068224188) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-2. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068221443) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-3. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068214743) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-4. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068209749) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-5. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068208945) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-6. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3059912777) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. 💪 Opened PR [#21](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. ❗️ Opened issue [#20](https://github.com/code0-tech/hercules/issues/20) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-9. ✌️ Released [0.0.3](https://github.com/code0-tech/hercules/releases/tag/0.0.3) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-10. ✌️ Released [0.0.68](https://github.com/code0-tech/tucana/releases/tag/0.0.68) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3069361628) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+2. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068224188) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+3. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068221443) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+4. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068214743) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+5. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068209749) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+6. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068208945) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+7. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3059912777) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+8. 💪 Opened PR [#21](undefined) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+9. ❗️ Opened issue [#20](https://github.com/code0-tech/hercules/issues/20) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
+10. ✌️ Released [0.0.3](https://github.com/code0-tech/hercules/releases/tag/0.0.3) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
