@@ -28,45 +28,35 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#940](https://github.com/code0-tech/sagittarius/issues/940) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💬 Commented on [#929](https://github.com/code0-tech/sagittarius/pull/929#issuecomment-4306656483) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💪 Opened PR [#929](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 👍 Approved [#260](https://github.com/code0-tech/tucana/pull/260#pullrequestreview-4100799839) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 💬 Commented on [#260](https://github.com/code0-tech/tucana/pull/260#issuecomment-4238463144) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-6. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3069361628) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068224188) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068221443) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-9. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068214743) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-10. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068209749) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.02%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2675 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-🌆 Daytime                11032 commits       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                17763 commits       █████████████░░░░░░░░░░░░   53.31 % 
-🌙 Night                  1848 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+🌞 Morning                2675 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+🌆 Daytime                11098 commits       ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌃 Evening                17859 commits       █████████████░░░░░░░░░░░░   53.30 % 
+🌙 Night                  1872 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Tuesday                  3986 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Wednesday                4357 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Thursday                 5077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   4061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Saturday                 6398 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Sunday                   5371 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Monday                   4083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  4022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                4386 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 5100 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   4080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Saturday                 6437 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   5396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 ```
 
 
@@ -76,21 +66,21 @@ Sunday                   5371 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     6 hrs 9 mins        █████████████████████░░░░   82.01 % 
-Properties               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Java Properties          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Java                     6 hrs 27 mins       ████████████████████░░░░░   81.20 % 
+Properties               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Java Properties          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Kotlin                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 30 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lootbox                  7 hrs 30 mins       █████████████████████████   99.91 % 
+lootbox                  7 hrs 57 mins       █████████████████████████   99.91 % 
 sagittarius              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    7 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,6 +96,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 00:55:51 UTC
+ Last Updated on 01/05/2026 00:58:56 UTC
 <!--END_SECTION:waka-->
 
