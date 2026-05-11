@@ -34,9 +34,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 4. 👍 Approved [#260](https://github.com/code0-tech/tucana/pull/260#pullrequestreview-4100799839) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 5. 💬 Commented on [#260](https://github.com/code0-tech/tucana/pull/260#issuecomment-4238463144) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 6. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3069361628) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-7. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068224188) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-8. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068221443) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
-9. 💬 Commented on [#21](https://github.com/code0-tech/hercules/pull/21#discussion_r3068214743) in [code0-tech/hercules](https://github.com/code0-tech/hercules)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
