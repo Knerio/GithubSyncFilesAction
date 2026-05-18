@@ -36,64 +36,23 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2054%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.10%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2766 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                11374 commits       ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌃 Evening                18362 commits       █████████████░░░░░░░░░░░░   53.35 % 
-🌙 Night                  1913 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   4136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Tuesday                  4028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Wednesday                4484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 5316 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   4234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Saturday                 6659 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Sunday                   5558 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     46 repos            █████████████████░░░░░░░░   68.66 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Java                     45 repos            █████████████████░░░░░░░░   68.18 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 01:00:36 UTC
+ Last Updated on 18/05/2026 01:00:02 UTC
 <!--END_SECTION:waka-->
 
