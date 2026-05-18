@@ -22,7 +22,7 @@ dependencies {
 
     implementation("org.kohsuke:github-api:1.322")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1")
-    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("com.squareup.okhttp3:okhttp:5.3.2")
 }
 
 java {
