@@ -30,7 +30,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#940](https://github.com/code0-tech/sagittarius/issues/940) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 2. 💬 Commented on [#929](https://github.com/code0-tech/sagittarius/pull/929#issuecomment-4306656483) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 💪 Opened PR [#929](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
