@@ -35,7 +35,7 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -86,16 +86,16 @@ Linux                    1 hr 39 mins        ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     43 repos            █████████████████░░░░░░░░   68.25 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Java                     43 repos            █████████████████░░░░░░░░   67.19 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+GLSL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 13/06/2026 01:08:50 UTC
+ Last Updated on 14/06/2026 01:09:26 UTC
 <!--END_SECTION:waka-->
 
