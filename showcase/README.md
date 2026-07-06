@@ -37,26 +37,26 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2275 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-🌆 Daytime                9904 commits        ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌃 Evening                15653 commits       █████████████░░░░░░░░░░░░   52.99 % 
-🌙 Night                  1708 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+🌞 Morning                2218 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+🌆 Daytime                9632 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌃 Evening                15105 commits       █████████████░░░░░░░░░░░░   52.75 % 
+🌙 Night                  1680 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3377 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Tuesday                  3575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Wednesday                3847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Thursday                 4394 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Friday                   3865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 5833 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Sunday                   4649 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   3327 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  3488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Wednesday                3763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Thursday                 4233 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Friday                   3731 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Saturday                 5610 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Sunday                   4483 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 
 
@@ -81,16 +81,16 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     43 repos            █████████████████░░░░░░░░   67.19 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-GLSL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java                     42 repos            █████████████████░░░░░░░░   66.67 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+GLSL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 05/07/2026 03:36:52 UTC
+ Last Updated on 06/07/2026 03:44:38 UTC
 <!--END_SECTION:waka-->
 
