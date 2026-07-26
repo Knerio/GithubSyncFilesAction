@@ -33,9 +33,50 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 #
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2345 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌆 Daytime                10426 commits       ████████░░░░░░░░░░░░░░░░░   33.57 % 
+🌃 Evening                16509 commits       █████████████░░░░░░░░░░░░   53.16 % 
+🌙 Night                  1774 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3490 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  3790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                3990 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 4699 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   4054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Saturday                 6130 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Sunday                   4901 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Java** 
 
@@ -50,6 +91,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:50:17 UTC
+ Last Updated on 26/07/2026 03:00:31 UTC
 <!--END_SECTION:waka-->
 
