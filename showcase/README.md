@@ -37,52 +37,7 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.71%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2287 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                10079 commits       ████████░░░░░░░░░░░░░░░░░   33.62 % 
-🌃 Evening                15879 commits       █████████████░░░░░░░░░░░░   52.97 % 
-🌙 Night                  1731 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   3422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Tuesday                  3662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                3886 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Thursday                 4505 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Friday                   3904 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 5886 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Sunday                   4711 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Java** 
 
@@ -97,6 +52,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:44:49 UTC
+ Last Updated on 29/07/2026 02:49:44 UTC
 <!--END_SECTION:waka-->
 
