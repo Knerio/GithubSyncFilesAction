@@ -39,6 +39,51 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2322 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌆 Daytime                10239 commits       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌃 Evening                16174 commits       █████████████░░░░░░░░░░░░   53.07 % 
+🌙 Night                  1744 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Tuesday                  3709 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Wednesday                3930 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Thursday                 4597 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Friday                   3973 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Saturday                 6005 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Sunday                   4805 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -52,6 +97,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:49:44 UTC
+ Last Updated on 30/07/2026 02:35:18 UTC
 <!--END_SECTION:waka-->
 
