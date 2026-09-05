@@ -37,26 +37,26 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.83%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2278 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-🌆 Daytime                9980 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌃 Evening                15461 commits       █████████████░░░░░░░░░░░░   52.69 % 
-🌙 Night                  1624 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌞 Morning                2191 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+🌆 Daytime                9545 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌃 Evening                14606 commits       █████████████░░░░░░░░░░░░   52.31 % 
+🌙 Night                  1582 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  3506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Wednesday                3774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 4505 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   3806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 5699 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Sunday                   4613 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Monday                   3356 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Tuesday                  3368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                3645 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 4235 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Friday                   3602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 5366 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Sunday                   4352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 ```
 
 
@@ -97,6 +97,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 03:25:56 UTC
+ Last Updated on 05/09/2026 03:30:13 UTC
 <!--END_SECTION:waka-->
 
