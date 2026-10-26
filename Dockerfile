@@ -6,7 +6,7 @@ COPY . .
 
 RUN gradle shadowJar --no-daemon
 
-FROM eclipse-temurin:21-alpine
+FROM eclipse-temurin:25-alpine
 
 WORKDIR /app
 
